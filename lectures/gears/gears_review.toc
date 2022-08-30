@@ -1,4 +1,4 @@
 \beamer@sectionintoc {1}{Overview}{3}{0}{1}
-\beamer@sectionintoc {2}{Law of Gearing}{6}{0}{2}
-\beamer@sectionintoc {3}{Gears and Loads}{8}{0}{3}
-\beamer@sectionintoc {4}{Examples}{9}{0}{4}
+\beamer@sectionintoc {2}{Law of Gearing}{8}{0}{2}
+\beamer@sectionintoc {3}{Gears and Loads}{10}{0}{3}
+\beamer@sectionintoc {4}{Examples}{11}{0}{4}

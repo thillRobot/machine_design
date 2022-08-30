@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.21)  29 AUG 2022 22:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.21)  29 AUG 2022 23:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1048,6 +1048,12 @@ LaTeX Warning: Label `sectionI<1>' multiply defined.
 
 LaTeX Warning: Label `sectionI' multiply defined.
 
+
+LaTeX Warning: Label `sectionI<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionI' multiply defined.
+
 )
 \openout1 = `gears_review.aux'.
 
@@ -1222,77 +1228,152 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 
 ] [2
 
-] [3
+]
+<images/manual_transmission.png, id=118, 1027.84pt x 770.88pt>
+File: images/manual_transmission.png Graphic file (type png)
+<use images/manual_transmission.png>
+Package pdftex.def Info: images/manual_transmission.png  used on input line 82.
 
-]pdfTeX warning (ext4): destination with the same identifier (name{sectionI<1>}
-) has been already used, duplicate ignored
+(pdftex.def)             Requested size: 154.16934pt x 115.627pt.
+
+Overfull \hbox (5.52441pt too wide) in paragraph at lines 82--82
+[][]  
+ []
+
+[3
+
+ <./images/manual_transmission.png>]pdfTeX warning (ext4): destination with the
+ same identifier (name{sectionI<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.92 	\end{frame}
-                 pdfTeX warning (ext4): destination with the same identifier (n
-ame{sectionI}) has been already used, duplicate ignored
+l.102 	\end{frame}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.92 	\end{frame}
-                 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 92.
-
+l.102 	\end{frame}
+                  
+LaTeX Font Info:    Trying to load font information for U+msa on input line 102
+.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 92.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 102
+.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 92
-.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 10
+2.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-<images/spur_gear.png, id=152, 1027.84pt x 685.56125pt>
+<images/spur_gear.png, id=153, 1027.84pt x 685.56125pt>
 File: images/spur_gear.png Graphic file (type png)
 <use images/spur_gear.png>
-Package pdftex.def Info: images/spur_gear.png  used on input line 92.
+Package pdftex.def Info: images/spur_gear.png  used on input line 102.
 (pdftex.def)             Requested size: 71.95615pt x 47.99419pt.
-<images/helical_gear.png, id=153, 240.9pt x 160.6803pt>
+<images/helical_gear.png, id=154, 240.9pt x 160.6803pt>
 File: images/helical_gear.png Graphic file (type png)
 <use images/helical_gear.png>
-Package pdftex.def Info: images/helical_gear.png  used on input line 92.
+Package pdftex.def Info: images/helical_gear.png  used on input line 102.
 (pdftex.def)             Requested size: 84.31625pt x 56.23894pt.
-<images/rack_and_pinion2.png, id=154, 102.3825pt x 77.3289pt>
+<images/rack_and_pinion2.png, id=155, 102.3825pt x 77.3289pt>
 File: images/rack_and_pinion2.png Graphic file (type png)
 <use images/rack_and_pinion2.png>
-Package pdftex.def Info: images/rack_and_pinion2.png  used on input line 92.
+Package pdftex.def Info: images/rack_and_pinion2.png  used on input line 102.
 (pdftex.def)             Requested size: 66.54782pt x 50.26318pt.
 
-Overfull \vbox (1.96773pt too high) detected at line 92
+Overfull \hbox (16.67409pt too wide) in paragraph at lines 102--102
+[][]  
+ []
+
+
+Overfull \vbox (3.9117pt too high) detected at line 102
  []
 
 [4
 
  <./images/spur_gear.png> <./images/helical_gear.png> <./images/rack_and_pinion
-2.png>] [5
+2.png>]pdfTeX warning (ext4): destination with the same identifier (name{sectio
+nI<1>}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.119 	\end{frame}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{sectionI}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.119 	\end{frame}
+                  
+<images/bevel_gear2.png, id=188, 385.44pt x 385.44pt>
+File: images/bevel_gear2.png Graphic file (type png)
+<use images/bevel_gear2.png>
+Package pdftex.def Info: images/bevel_gear2.png  used on input line 119.
+(pdftex.def)             Requested size: 53.96123pt x 53.96123pt.
+<images/helical_bevel.png, id=189, 1027.84pt x 604.2575pt>
+File: images/helical_bevel.png Graphic file (type png)
+<use images/helical_bevel.png>
+Package pdftex.def Info: images/helical_bevel.png  used on input line 119.
+(pdftex.def)             Requested size: 92.5016pt x 54.38083pt.
+<images/worm_gear.png, id=191, 1007.765pt x 525.965pt>
+File: images/worm_gear.png Graphic file (type png)
+<use images/worm_gear.png>
+Package pdftex.def Info: images/worm_gear.png  used on input line 119.
+(pdftex.def)             Requested size: 70.55075pt x 36.8213pt.
+
+Overfull \hbox (24.85944pt too wide) in paragraph at lines 119--119
+[][]  
+ []
+
+[5
+
+ <./images/bevel_gear2.png> <./images/helical_bevel.png> <./images/worm_gear.pn
+g>]
+<images/simple_gear_train.png, id=225, 273.02pt x 274.02374pt>
+File: images/simple_gear_train.png Graphic file (type png)
+<use images/simple_gear_train.png>
+Package pdftex.def Info: images/simple_gear_train.png  used on input line 134.
+(pdftex.def)             Requested size: 54.60303pt x 54.80377pt.
+<images/compound_gears.png, id=226, 502.74783pt x 241.94739pt>
+File: images/compound_gears.png Graphic file (type png)
+<use images/compound_gears.png>
+Package pdftex.def Info: images/compound_gears.png  used on input line 134.
+(pdftex.def)             Requested size: 100.54778pt x 48.38861pt.
+<images/planetary_gears.png, id=227, 345.29pt x 369.38pt>
+File: images/planetary_gears.png Graphic file (type png)
+<use images/planetary_gears.png>
+Package pdftex.def Info: images/planetary_gears.png  used on input line 134.
+(pdftex.def)             Requested size: 51.79126pt x 55.4046pt.
+
+Overfull \hbox (32.90561pt too wide) in paragraph at lines 134--134
+[][]  
+ []
+
+[6
+
+ <./images/simple_gear_train.png> <./images/compound_gears.png> <./images/plane
+tary_gears.png>] [7
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{sectionI<1>}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.137 		\end{frame}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{sectionI}) has been already used, duplicate ignored
+l.181 	\end{frame}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.137 		\end{frame}
-                    [6
-
-] [7
-
-] [8
+l.181 	\end{frame}
+                   [8
 
 ] [9
+
+] [10
+
+] [11
 
 ]
 \tf@nav=\write7
@@ -1304,11 +1385,11 @@ l.137 		\end{frame}
 \tf@snm=\write9
 \openout9 = `gears_review.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
  (./gears_review.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
 Package rerunfilecheck Info: File `gears_review.out' has not changed.
 (rerunfilecheck)             Checksum: CCCB21EC96A8B8E828E5534B555F7E0D;185.
 
@@ -1317,29 +1398,35 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 25806 strings out of 483183
- 511212 string characters out of 5966292
- 985776 words of memory out of 5000000
- 40178 multiletter control sequences out of 15000+600000
+ 25865 strings out of 483183
+ 512656 string characters out of 5966292
+ 985873 words of memory out of 5000000
+ 40226 multiletter control sequences out of 15000+600000
  548991 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  62i,19n,73p,779b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{sectionII} has been referenced but does not exist
 , replaced by a fixed one
 
- </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0600.600pk
-> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600p
-k> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1200.600
-pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.60
-0pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.6
-00pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1095.
-600pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440
-.600pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx060
-0.600pk>
-Output written on gears_review.pdf (9 pages, 1957969 bytes).
+ </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi0500.600pk
+> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi0700.600p
+k> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1000.600
+pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0600.60
+0pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.6
+00pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1200.
+600pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200
+.600pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx144
+0.600pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss10
+95.600pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1
+440.600pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx
+0600.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on gears_review.pdf (11 pages, 7645580 bytes).
 PDF statistics:
- 529 PDF objects out of 1000 (max. 8388607)
- 339 compressed objects within 4 object streams
- 30 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 658 PDF objects out of 1000 (max. 8388607)
+ 424 compressed objects within 5 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
