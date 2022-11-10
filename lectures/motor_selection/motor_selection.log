@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.21)  10 NOV 2022 01:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.21)  10 NOV 2022 06:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1445,6 +1445,18 @@ Package pdftex.def Info: images/torque_speed_various.png  used on input line 22
 
  <./images/torque_speed_various.png>] [15
 
+]pdfTeX warning (ext4): destination with the same identifier (name{sectionIV<1>
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.255 		\end{frame}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{sectionIV}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.255 		\end{frame}
+                    [16
+
 ]
 \tf@nav=\write7
 \openout7 = `motor_selection.nav'.
@@ -1455,12 +1467,11 @@ Package pdftex.def Info: images/torque_speed_various.png  used on input line 22
 \tf@snm=\write9
 \openout9 = `motor_selection.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
-
-(./motor_selection.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 239.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 239.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
+ (./motor_selection.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
 Package rerunfilecheck Info: File `motor_selection.out' has not changed.
 (rerunfilecheck)             Checksum: 93680CE6F93010E1E2C2C64A6571119C;253.
 
@@ -1469,8 +1480,8 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 25892 strings out of 483183
- 513847 string characters out of 5966292
+ 25894 strings out of 483183
+ 513866 string characters out of 5966292
  986312 words of memory out of 5000000
  40240 multiletter control sequences out of 15000+600000
  548991 words of font info for 57 fonts, out of 8000000 for 9000
@@ -1487,10 +1498,10 @@ pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.60
 00pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.
 600pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0600
 .600pk>
-Output written on motor_selection.pdf (15 pages, 1999038 bytes).
+Output written on motor_selection.pdf (16 pages, 2002175 bytes).
 PDF statistics:
- 758 PDF objects out of 1000 (max. 8388607)
- 518 compressed objects within 6 object streams
- 42 named destinations out of 1000 (max. 500000)
+ 793 PDF objects out of 1000 (max. 8388607)
+ 548 compressed objects within 6 object streams
+ 44 named destinations out of 1000 (max. 500000)
  161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
