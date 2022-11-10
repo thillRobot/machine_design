@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.2.1 (1:1.2.1+202210291244+9c6d41e410)"
    sodipodi:docname="classes_of_motors.svg"
+   inkscape:export-filename="classes_of_motors.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.2938725"
-     inkscape:cx="491.16122"
-     inkscape:cy="257.36694"
+     inkscape:cx="495.02559"
+     inkscape:cy="258.91268"
      inkscape:window-width="2560"
      inkscape:window-height="1403"
      inkscape:window-x="0"
@@ -140,9 +143,9 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="103.58597"
-         id="tspan645"><tspan
+         id="tspan883"><tspan
            style="fill:#000000"
-           id="tspan643">DC Motors</tspan></tspan></text>
+           id="tspan881">DC Motors</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583"
        id="rect111-3"
@@ -158,15 +161,15 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-7);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="103.58597"
-         id="tspan649"><tspan
+         id="tspan887"><tspan
            style="fill:#000000"
-           id="tspan647">Brushless 
+           id="tspan885">Brushless 
 </tspan></tspan><tspan
          x="79.992188"
          y="136.91934"
-         id="tspan653"><tspan
+         id="tspan891"><tspan
            style="fill:#000000"
-           id="tspan651">DC Motors</tspan></tspan></text>
+           id="tspan889">DC Motors</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583"
        id="rect111-5"
@@ -182,9 +185,9 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-8);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="103.58597"
-         id="tspan657"><tspan
+         id="tspan895"><tspan
            style="fill:#000000"
-           id="tspan655">AC Motors</tspan></tspan></text>
+           id="tspan893">AC Motors</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -205,15 +208,15 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="103.58597"
-         id="tspan661"><tspan
+         id="tspan899"><tspan
            style="fill:#000000"
-           id="tspan659">Brushed 
+           id="tspan897">Brushed 
 </tspan></tspan><tspan
          x="79.992188"
          y="136.91934"
-         id="tspan665"><tspan
+         id="tspan903"><tspan
            style="fill:#000000"
-           id="tspan663">DC Motors</tspan></tspan></text>
+           id="tspan901">DC Motors</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583"
        id="rect111-51-7-4"
@@ -229,15 +232,15 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3-3-3);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="103.58597"
-         id="tspan669"><tspan
+         id="tspan907"><tspan
            style="fill:#000000"
-           id="tspan667">Permanent
+           id="tspan905">Permanent
 </tspan></tspan><tspan
          x="79.992188"
          y="136.91934"
-         id="tspan673"><tspan
+         id="tspan911"><tspan
            style="fill:#000000"
-           id="tspan671">Magnent</tspan></tspan></text>
+           id="tspan909">Magnent</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.375525"
        id="rect111-51-7-9"
@@ -253,15 +256,15 @@
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="97.6875"
-         id="tspan677"><tspan
+         id="tspan915"><tspan
            style="fill:#000000"
-           id="tspan675">Permanent
+           id="tspan913">Permanent
 </tspan></tspan><tspan
          x="79.992188"
          y="122.6875"
-         id="tspan681"><tspan
+         id="tspan919"><tspan
            style="fill:#000000"
-           id="tspan679">Magnent Stator</tspan></tspan></text>
+           id="tspan917">Magnent Stator</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-30.30182,13.459725)"
@@ -282,15 +285,15 @@
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-1-3);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="97.6875"
-         id="tspan685"><tspan
+         id="tspan923"><tspan
            style="fill:#000000"
-           id="tspan683">Permanent
+           id="tspan921">Permanent
 </tspan></tspan><tspan
          x="79.992188"
          y="122.6875"
-         id="tspan689"><tspan
+         id="tspan927"><tspan
            style="fill:#000000"
-           id="tspan687">Magnent Rotor</tspan></tspan></text>
+           id="tspan925">Magnent Rotor</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.375525"
        id="rect111-51-7-9-7"
@@ -306,9 +309,9 @@
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-2);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="97.6875"
-         id="tspan693"><tspan
+         id="tspan931"><tspan
            style="fill:#000000"
-           id="tspan691">External Rotor</tspan></tspan></text>
+           id="tspan929">External Rotor</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.375525"
        id="rect111-51-7-9-9-4-7"
@@ -324,13 +327,13 @@
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-1-3-5);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="97.6875"
-         id="tspan697"><tspan
+         id="tspan935"><tspan
            style="fill:#000000"
-           id="tspan695">Internal Rotor</tspan></tspan></text>
+           id="tspan933">Internal Rotor</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-30.30182,13.459725)"
        id="text1216"
-       style="font-size:20px;white-space:pre;shape-inside:url(#rect1218);fill:#000000;stroke:#000000" />
+       style="font-size:20px;white-space:pre;shape-inside:url(#rect1218);display:inline;fill:#000000;stroke:#000000" />
   </g>
 </svg>
