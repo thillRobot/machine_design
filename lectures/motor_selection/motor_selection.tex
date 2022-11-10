@@ -16,13 +16,13 @@
 \newcommand{\moduletitle}{Power Screws and Bolted Connections} 
 \newcommand{\lecturetitle}{Motor Selection} 
 
-\newcommand{\sectiontitleI}{Overview} % More Titles and Stuff
-\newcommand{\sectiontitleII}{Classification of Electric Motors}
+\newcommand{\sectiontitleI}{Classification of Electric Motors}
+\newcommand{\sectiontitleII}{Open Loop and Closed Loop Control}
 \newcommand{\sectiontitleIII}{Motor Torque-Speed Curves}
 \newcommand{\sectiontitleIV}{Analysis and Selection}
 
 \author{ME4020 - Applied Machine Design}
-\title{\GD Module \MNUM - \moduletitle}
+\title{\GD \moduletitle}
 \date{Mechanical Engineering\vspc Tennessee Technological University}
 
 \begin{document}
@@ -58,11 +58,13 @@
 		\begin{frame}[label=sectionI] \small
 			\frametitle{\sectiontitleI}	
 	
-		
+			\begin{multicols}{2}
+				\includegraphics[scale=0.25]{images/Jedlik_motor.jpeg}	
+				\href{https://en.wikipedia.org/wiki/Electric_motor}{Jedlik's Electromagnetic Self-Rotor}
 
-				\includegraphics[scale=0.15]{images/mini-chetah.png}
-		
-			\href{https://news.mit.edu/2019/mit-mini-cheetah-first-four-legged-robot-to-backflip-0304}
+				\includegraphics[scale=0.15]{images/MIT-mini-cheetah-01_0.jpg}
+				\href{https://news.mit.edu/2019/mit-mini-cheetah-first-four-legged-robot-to-backflip-0304}{MIT Mini Cheetah}
+			\end{multicols}
 
 		\end{frame}
 
@@ -73,35 +75,103 @@
 	\begin{frame}[label=sectionI] \small
 		\frametitle{\sectiontitleI}	
 		
-		
+		\includegraphics[scale=0.25]{images/classes_of_motors.png}
 
 	\end{frame}
+
 
 	% Section I - Frame III
 	\begin{frame}[label=sectionI] \small
 		\frametitle{\sectiontitleI}	
 		
+		Common Electric Motor Types
+
+		\begin{tabular}{|c|c|c|c|} 
+			--- Type --- & --- Example --- & --- Application --- \\ \hline  
+			& \includegraphics[scale=.05]{images/Ac-elektromotor-robuster-asynchronmotor.jpeg} & \\ \hline                  % AC Motor
+			& \includegraphics[scale=.29]{images/brushed_dcmotor.jpg} & \\ \hline                  % Brushed DC Motor 
+ 
+		\end{tabular}
 
 	\end{frame}
 
-	% Section I - Frame III
-	\begin{frame} \small
-		\frametitle{\sectiontitleI}
+		% Section I - Frame IV
+	\begin{frame}[label=sectionI] \small
+		\frametitle{\sectiontitleI}	
+		
+		Common Electric Motor Types
 
+		\begin{tabular}{|c|c|c|c|} 
+			--- Type --- & --- Example --- & --- Applications --- \\ \hline  
+			& \includegraphics[scale=.2]{images/brushless-dc-motor-structure-and-control.jpg} & \\ \hline                % Brushless DC Motor
+			& \includegraphics[scale=.2]{images/stepper-motor-structural-diagram.jpg} & \\ \hline                    % Stepper Motor  
+		\end{tabular}
+
+	\end{frame}
+
+
+
+	% Section I - Frame V
+	\begin{frame}[label=sectionI] \small
+		\frametitle{\sectiontitleI}	
+		
+		\includegraphics[scale=0.5]{images/brushed_brushless.jpg}
+
+	\end{frame}
+
+
+% Section II
+\section{\sectiontitleII}	
+
+	% Section II - Frame I
+	\begin{frame} \small
+		\frametitle{\sectiontitleII}
+
+		Open Loop vs Closed Loop Control
+		\begin{itemize}
+			\item Open Loop Control
+			\item Bang-Bang Control
+			\item Armature Control
+			\item Position Control
+			\item Velocity Control
+		\end{itemize}
+
+	\end{frame}
+
+	% Section II - Frame II
+	\begin{frame} \small
+		\frametitle{\sectiontitleII}
+
+		Feedback Controlled Brushed DC Electric Motor
+
+		\includegraphics[scale=0.25]{images/pittman_encoder_01.png} \\
+	
+		\includegraphics[scale=0.25]{images/pittman_encoder_02.png}	
+
+	\end{frame}
+
+	% Section II - Frame II
+	\begin{frame} \small
+		\frametitle{\sectiontitleII}
+
+		Feedback Controlled Brushless DC Electric Motor \\
+
+		Modern Case Study: Universl Robotics - Arm Joint
+
+		\includegraphics[scale=.25]{images/UR3-Joint-Replacement.jpg}
 	
 	\end{frame}
 
 		% Section I - Frame III
 	\begin{frame} \small
-		\frametitle{\sectiontitleI}
+		\frametitle{\sectiontitleII}
 
-		Alternatives:
+		Applications:
 		\begin{itemize}
 			\item  
 			\item
 			\item
         \end{itemize}
-
 
         \begin{multicols}{2}
 		\underline{Pros}
@@ -121,8 +191,7 @@
 	\end{frame}
 
 	
-% Section II
-\section{\sectiontitleII}	
+
 
 	% Section II - Frame I
 	\begin{frame}[label=sectionI] \small
@@ -137,18 +206,19 @@
 	\begin{frame}[label=sectionIII] \small
 		\frametitle{\sectiontitleIII}
 	 		
-			\begin{multicols}{2}
-	 	
-	        \begin{itemize}
-	            \item 
-	            \item 
-	            \item 
-	        \end{itemize}
 
-	      
-	        \end{multicols}
+		\includegraphics[scale=.25]{images/torque_speed_permanent_magnet.png}
 
-	    
+	        
+		\end{frame}  
+
+		% Section III - Frame I
+	\begin{frame}[label=sectionIII] \small
+		\frametitle{\sectiontitleIII}
+	 		
+
+		\includegraphics[scale=.25]{images/torque_speed_various.png}
+
 	        
 		\end{frame}  
 	
@@ -158,12 +228,11 @@
 	    \begin{frame}[label=sectionIV] \small
 		\frametitle{\sectiontitleIV}    
   
-  			\begin{itemize}
-	            \item 
-	            \item 
-	            \item 
-	            \item 
-	        \end{itemize}
+  		\href{https://www.haydonkerkpittman.com/products/motors/brushed-dc-motors/dc054b}{Haydon Kerk Pittman Ametek - Brushed DC }
+
+  		\href{https://www.haydonkerkpittman.com/products/motors/brushless-dc-motors/ec057b}{Haydon Kerk Pittman Ametek - Brushless DC }
+
+
 
 		\end{frame}
 		

@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Classification of Electric Motors}{3}{0}{1}
+\beamer@sectionintoc {2}{Open Loop and Closed Loop Control}{8}{0}{2}
+\beamer@sectionintoc {3}{Motor Torque-Speed Curves}{13}{0}{3}
+\beamer@sectionintoc {4}{Analysis and Selection}{15}{0}{4}

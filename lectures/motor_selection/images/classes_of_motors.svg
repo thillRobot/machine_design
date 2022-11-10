@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="310.27295mm"
+   height="132.14381mm"
+   viewBox="0 0 310.27294 132.14381"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (1:1.2.1+202210291244+9c6d41e410)"
+   sodipodi:docname="classes_of_motors.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2938725"
+     inkscape:cx="491.16122"
+     inkscape:cy="257.36694"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="435.90076"
+       y="-64.921387"
+       width="341.61017"
+       height="185.48969"
+       id="rect1218" />
+    <rect
+       x="262.32202"
+       y="283.0892"
+       width="369.43686"
+       height="274.89163"
+       id="rect864" />
+    <rect
+       x="293.47278"
+       y="40.987816"
+       width="248.65942"
+       height="127.88199"
+       id="rect429" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="213.31314"
+       height="61.829895"
+       id="rect322" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="213.31314"
+       height="61.829895"
+       id="rect322-8" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="148.27913"
+       height="73.306488"
+       id="rect322-7" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="163.03474"
+       height="74.39949"
+       id="rect322-3" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="163.03474"
+       height="74.39949"
+       id="rect322-3-3" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="212.76663"
+       height="123.03837"
+       id="rect322-3-3-5" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="212.76663"
+       height="123.03837"
+       id="rect322-3-3-5-1" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="212.76663"
+       height="123.03837"
+       id="rect322-3-3-5-1-3" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="212.76663"
+       height="123.03837"
+       id="rect322-3-3-5-2" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="212.76663"
+       height="123.03837"
+       id="rect322-3-3-5-1-3-5" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="163.03474"
+       height="74.39949"
+       id="rect322-3-3-3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(100.52761,-15.657365)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect111"
+       width="58.314713"
+       height="24.523901"
+       x="16.559458"
+       y="15.832426"
+       ry="8.3255272" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,6.7269356,2.2404102)"
+       id="text320"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan645"><tspan
+           style="fill:#000000"
+           id="tspan643">DC Motors</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect111-3"
+       width="58.314713"
+       height="24.523901"
+       x="52.100624"
+       y="85.680702"
+       ry="8.3255272" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,41.978909,68.907576)"
+       id="text320-9"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-7);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan649"><tspan
+           style="fill:#000000"
+           id="tspan647">Brushless 
+</tspan></tspan><tspan
+         x="79.992188"
+         y="136.91934"
+         id="tspan653"><tspan
+           style="fill:#000000"
+           id="tspan651">DC Motors</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect111-5"
+       width="58.314713"
+       height="24.523901"
+       x="151.29834"
+       y="15.789657"
+       ry="8.3255272" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,141.46582,2.1976399)"
+       id="text320-4"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-8);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan657"><tspan
+           style="fill:#000000"
+           id="tspan655">AC Motors</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text427"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect429);display:inline;fill:#000000;stroke:#000000" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect111-51"
+       width="58.314713"
+       height="24.523901"
+       x="-25.691978"
+       y="85.102318"
+       ry="8.3255272" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-36.102883,68.618385)"
+       id="text320-3"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan661"><tspan
+           style="fill:#000000"
+           id="tspan659">Brushed 
+</tspan></tspan><tspan
+         x="79.992188"
+         y="136.91934"
+         id="tspan665"><tspan
+           style="fill:#000000"
+           id="tspan663">DC Motors</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect111-51-7-4"
+       width="58.314713"
+       height="24.523901"
+       x="15.771742"
+       y="51.493214"
+       ry="8.3255272" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.0716417,33.852513)"
+       id="text320-3-0-3"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3-3-3);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan669"><tspan
+           style="fill:#000000"
+           id="tspan667">Permanent
+</tspan></tspan><tspan
+         x="79.992188"
+         y="136.91934"
+         id="tspan673"><tspan
+           style="fill:#000000"
+           id="tspan671">Magnent</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.375525"
+       id="rect111-51-7-9"
+       width="58.492966"
+       height="19.785887"
+       x="-29.054066"
+       y="126.05109"
+       ry="9.386858" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-39.809635,108.35492)"
+       id="text320-3-0-2"
+       style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="97.6875"
+         id="tspan677"><tspan
+           style="fill:#000000"
+           id="tspan675">Permanent
+</tspan></tspan><tspan
+         x="79.992188"
+         y="122.6875"
+         id="tspan681"><tspan
+           style="fill:#000000"
+           id="tspan679">Magnent Stator</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-30.30182,13.459725)"
+       id="text862"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect864);display:inline;fill:#000000;stroke:#000000" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.375525"
+       id="rect111-51-7-9-9-4"
+       width="58.492966"
+       height="19.785887"
+       x="-100.33984"
+       y="125.76189"
+       ry="9.386858" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-111.6015,107.27046)"
+       id="text320-3-0-2-2-4"
+       style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-1-3);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="97.6875"
+         id="tspan685"><tspan
+           style="fill:#000000"
+           id="tspan683">Permanent
+</tspan></tspan><tspan
+         x="79.992188"
+         y="122.6875"
+         id="tspan689"><tspan
+           style="fill:#000000"
+           id="tspan687">Magnent Rotor</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.375525"
+       id="rect111-51-7-9-7"
+       width="58.492966"
+       height="19.785887"
+       x="113.6948"
+       y="127.82754"
+       ry="9.386858" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,102.53027,113.70992)"
+       id="text320-3-0-2-0"
+       style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-2);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="97.6875"
+         id="tspan693"><tspan
+           style="fill:#000000"
+           id="tspan691">External Rotor</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.375525"
+       id="rect111-51-7-9-9-4-7"
+       width="58.492966"
+       height="19.785887"
+       x="42.409027"
+       y="127.53834"
+       ry="9.386858" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,30.840637,113.13668)"
+       id="text320-3-0-2-2-4-5"
+       style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-1-3-5);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="97.6875"
+         id="tspan697"><tspan
+           style="fill:#000000"
+           id="tspan695">Internal Rotor</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-30.30182,13.459725)"
+       id="text1216"
+       style="font-size:20px;white-space:pre;shape-inside:url(#rect1218);fill:#000000;stroke:#000000" />
+  </g>
+</svg>
