@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.2938725"
-     inkscape:cx="78.833117"
-     inkscape:cy="209.83521"
+     inkscape:cx="218.72325"
+     inkscape:cy="168.8729"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="-9"
@@ -35,6 +35,12 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <rect
+       x="435.90076"
+       y="-64.92139"
+       width="341.61017"
+       height="185.48969"
+       id="rect1218" />
     <rect
        x="262.32203"
        y="283.08919"
@@ -107,6 +113,12 @@
        width="212.76663"
        height="123.03837"
        id="rect322-3-3-5-1-3-5" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="163.03474"
+       height="74.39949"
+       id="rect322-3-3-3" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -118,19 +130,19 @@
        id="rect111"
        width="58.314713"
        height="24.523901"
-       x="9.8325224"
-       y="13.592016"
+       x="12.081907"
+       y="-18.921814"
        ry="8.3255272" />
     <text
        xml:space="preserve"
-       transform="scale(0.26458333)"
+       transform="matrix(0.26458333,0,0,0.26458333,2.2493845,-32.51383)"
        id="text320"
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="104.32103"
-         id="tspan1109"><tspan
+         id="tspan1284"><tspan
            style="fill:#000000"
-           id="tspan1107">DC Motors</tspan></tspan></text>
+           id="tspan1282">DC Motors</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583"
        id="rect111-3"
@@ -146,15 +158,15 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-7);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="104.32103"
-         id="tspan1113"><tspan
+         id="tspan1288"><tspan
            style="fill:#000000"
-           id="tspan1111">Brushless 
+           id="tspan1286">Brushless 
 </tspan></tspan><tspan
          x="79.992188"
          y="137.6544"
-         id="tspan1117"><tspan
+         id="tspan1292"><tspan
            style="fill:#000000"
-           id="tspan1115">DC Motors</tspan></tspan></text>
+           id="tspan1290">DC Motors</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583"
        id="rect111-5"
@@ -170,9 +182,9 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-8);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="104.32103"
-         id="tspan1121"><tspan
+         id="tspan1296"><tspan
            style="fill:#000000"
-           id="tspan1119">AC Motors</tspan></tspan></text>
+           id="tspan1294">AC Motors</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -193,127 +205,132 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="104.32103"
-         id="tspan1125"><tspan
+         id="tspan1300"><tspan
            style="fill:#000000"
-           id="tspan1123">Brushed 
+           id="tspan1298">Brushed 
 </tspan></tspan><tspan
          x="79.992188"
          y="137.6544"
-         id="tspan1129"><tspan
+         id="tspan1304"><tspan
            style="fill:#000000"
-           id="tspan1127">DC Motors</tspan></tspan></text>
+           id="tspan1302">DC Motors</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583"
-       id="rect111-51-7"
+       id="rect111-51-7-4"
        width="58.314713"
        height="24.523901"
-       x="-74.480423"
-       y="92.328285"
+       x="11.29419"
+       y="16.738974"
        ry="8.3255272" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-85.180525,74.687581)"
-       id="text320-3-0"
-       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3-3);display:inline;fill:none;stroke:#000000"><tspan
+       transform="matrix(0.26458333,0,0,0.26458333,0.59409064,-0.90172711)"
+       id="text320-3-0-3"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3-3-3);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="104.32103"
-         id="tspan1133"><tspan
+         id="tspan1308"><tspan
            style="fill:#000000"
-           id="tspan1131">Permanent
+           id="tspan1306">Permanent
 </tspan></tspan><tspan
          x="79.992188"
          y="137.6544"
-         id="tspan1137"><tspan
+         id="tspan1312"><tspan
            style="fill:#000000"
-           id="tspan1135">Magnent</tspan></tspan></text>
+           id="tspan1310">Magnent</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.375525"
        id="rect111-51-7-9"
        width="58.492966"
        height="19.785887"
-       x="-42.324665"
-       y="124.62865"
+       x="-33.531616"
+       y="91.296852"
        ry="9.386858" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-53.080235,106.93247)"
+       transform="matrix(0.26458333,0,0,0.26458333,-44.287186,73.600682)"
        id="text320-3-0-2"
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="98.238794"
-         id="tspan1141"><tspan
+         id="tspan1316"><tspan
            style="fill:#000000"
-           id="tspan1139">Permanent
+           id="tspan1314">Permanent
 </tspan></tspan><tspan
          x="79.992188"
          y="123.23879"
-         id="tspan1145"><tspan
+         id="tspan1320"><tspan
            style="fill:#000000"
-           id="tspan1143">Magnent Stator</tspan></tspan></text>
+           id="tspan1318">Magnent Stator</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-30.30182,13.459725)"
        id="text862"
-       style="fill:#000000;stroke:#000000;font-size:26.66666667px;white-space:pre;shape-inside:url(#rect864)" />
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect864);display:inline;fill:#000000;stroke:#000000" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.375525"
        id="rect111-51-7-9-9-4"
        width="58.492966"
        height="19.785887"
-       x="-113.61045"
-       y="124.33945"
+       x="-104.8174"
+       y="91.007652"
        ry="9.386858" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-124.8721,105.84801)"
+       transform="matrix(0.26458333,0,0,0.26458333,-116.07905,72.516222)"
        id="text320-3-0-2-2-4"
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-1-3);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="98.238794"
-         id="tspan1149"><tspan
+         id="tspan1324"><tspan
            style="fill:#000000"
-           id="tspan1147">Permanent
+           id="tspan1322">Permanent
 </tspan></tspan><tspan
          x="79.992188"
          y="123.23879"
-         id="tspan1153"><tspan
+         id="tspan1328"><tspan
            style="fill:#000000"
-           id="tspan1151">Magnent Rotor</tspan></tspan></text>
+           id="tspan1326">Magnent Rotor</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.375525"
        id="rect111-51-7-9-7"
        width="58.492966"
        height="19.785887"
-       x="83.860558"
-       y="96.754105"
+       x="109.21725"
+       y="93.073296"
        ry="9.386858" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,72.696016,82.63649)"
+       transform="matrix(0.26458333,0,0,0.26458333,98.052714,78.95568)"
        id="text320-3-0-2-0"
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-2);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="98.238794"
-         id="tspan1157"><tspan
+         id="tspan1332"><tspan
            style="fill:#000000"
-           id="tspan1155">External Rotor</tspan></tspan></text>
+           id="tspan1330">External Rotor</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.375525"
        id="rect111-51-7-9-9-4-7"
        width="58.492966"
        height="19.785887"
-       x="12.574777"
-       y="96.464905"
+       x="37.931477"
+       y="92.784096"
        ry="9.386858" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,1.006388,82.063254)"
+       transform="matrix(0.26458333,0,0,0.26458333,26.363086,78.382444)"
        id="text320-3-0-2-2-4-5"
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-1-3-5);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="98.238794"
-         id="tspan1161"><tspan
+         id="tspan1336"><tspan
            style="fill:#000000"
-           id="tspan1159">Internal Rotor</tspan></tspan></text>
+           id="tspan1334">Internal Rotor</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-30.30182,13.459725)"
+       id="text1216"
+       style="fill:#000000;stroke:#000000;font-size:20px;white-space:pre;shape-inside:url(#rect1218)" />
   </g>
 </svg>
