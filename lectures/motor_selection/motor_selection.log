@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.21)  10 NOV 2022 06:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.23)  10 NOV 2022 07:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -655,7 +655,7 @@ Package: amsthm 2017/10/31 v2.20.4
 \beamer@dimb=\dimen277
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
-(/home/thill/courses/machine_design/machine_design_lecture.sty
+(/home/tntech.edu/thill/courses/machine_design/machine_design_lecture.sty
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
@@ -1033,7 +1033,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 104.
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\color' on input line 28.
+(hyperref)                removing `\color' on input line 29.
 
 (./motor_selection.aux
 
@@ -1072,25 +1072,37 @@ LaTeX Warning: Label `sectionIII<1>' multiply defined.
 
 LaTeX Warning: Label `sectionIII' multiply defined.
 
+
+LaTeX Warning: Label `sectionIII<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionIII' multiply defined.
+
+
+LaTeX Warning: Label `sectionV<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionV' multiply defined.
+
 )
 \openout1 = `motor_selection.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1150,7 +1162,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box139
-Package hyperref Info: Link coloring ON on input line 28.
+Package hyperref Info: Link coloring ON on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1163,56 +1175,56 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count367
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
 
 (./motor_selection.out) (./motor_selection.out)
 \@outlinefile=\write6
 \openout6 = `motor_selection.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 28.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 28.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 29.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 28.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 28.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 28.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 28.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 28.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 28.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 28.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 28.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 28.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 28.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 28.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 28.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 28.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 28.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 28.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 28.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1247,16 +1259,16 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 ] [2
 
 ]
-<images/Jedlik_motor.jpeg, id=118, 462.22687pt x 303.38344pt>
+<images/Jedlik_motor.jpeg, id=129, 462.22687pt x 303.38344pt>
 File: images/Jedlik_motor.jpeg Graphic file (type jpg)
 <use images/Jedlik_motor.jpeg>
-Package pdftex.def Info: images/Jedlik_motor.jpeg  used on input line 69.
+Package pdftex.def Info: images/Jedlik_motor.jpeg  used on input line 70.
 (pdftex.def)             Requested size: 115.55643pt x 75.84567pt.
-<images/MIT-mini-cheetah-01_0.jpg, id=120, 903.375pt x 602.25pt>
+<images/MIT-mini-cheetah-01_0.jpg, id=131, 903.375pt x 602.25pt>
 File: images/MIT-mini-cheetah-01_0.jpg Graphic file (type jpg)
 <use images/MIT-mini-cheetah-01_0.jpg>
-Package pdftex.def Info: images/MIT-mini-cheetah-01_0.jpg  used on input line 6
-9.
+Package pdftex.def Info: images/MIT-mini-cheetah-01_0.jpg  used on input line 7
+0.
 (pdftex.def)             Requested size: 135.5004pt x 90.33359pt.
  [3
 
@@ -1265,17 +1277,17 @@ ng (ext4): destination with the same identifier (name{sectionI<1>}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 	\end{frame}
+l.81 	\end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (n
 ame{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 	\end{frame}
+l.81 	\end{frame}
                  
-<images/classes_of_motors.png, id=156, 883.04906pt x 375.65344pt>
+<images/classes_of_motors.png, id=168, 883.04906pt x 375.65344pt>
 File: images/classes_of_motors.png Graphic file (type png)
 <use images/classes_of_motors.png>
-Package pdftex.def Info: images/classes_of_motors.png  used on input line 80.
+Package pdftex.def Info: images/classes_of_motors.png  used on input line 81.
 (pdftex.def)             Requested size: 220.76172pt x 93.91312pt.
  [4
 
@@ -1283,42 +1295,42 @@ Package pdftex.def Info: images/classes_of_motors.png  used on input line 80.
 ame identifier (name{sectionI<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.96 	\end{frame}
+l.97 	\end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (n
 ame{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.96 	\end{frame}
+l.97 	\end{frame}
                  
-LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
 
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 96
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 97
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-<images/Ac-elektromotor-robuster-asynchronmotor.jpeg, id=189, 1172.38pt x 903.3
+<images/Ac-elektromotor-robuster-asynchronmotor.jpeg, id=202, 1172.38pt x 903.3
 75pt>
 File: images/Ac-elektromotor-robuster-asynchronmotor.jpeg Graphic file (type jp
 g)
 <use images/Ac-elektromotor-robuster-asynchronmotor.jpeg>
 Package pdftex.def Info: images/Ac-elektromotor-robuster-asynchronmotor.jpeg  u
-sed on input line 96.
+sed on input line 97.
 (pdftex.def)             Requested size: 58.62242pt x 45.17139pt.
-<images/brushed_dcmotor.jpg, id=190, 501.875pt x 301.125pt>
+<images/brushed_dcmotor.jpg, id=203, 501.875pt x 301.125pt>
 File: images/brushed_dcmotor.jpg Graphic file (type jpg)
 <use images/brushed_dcmotor.jpg>
-Package pdftex.def Info: images/brushed_dcmotor.jpg  used on input line 96.
+Package pdftex.def Info: images/brushed_dcmotor.jpg  used on input line 97.
 (pdftex.def)             Requested size: 145.54001pt x 87.324pt.
  [5
 
@@ -1327,26 +1339,26 @@ tor.jpg>]pdfTeX warning (ext4): destination with the same identifier (name{sect
 ionI<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 	\end{frame}
+l.111 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 	\end{frame}
+l.111 	\end{frame}
                   
-<images/brushless-dc-motor-structure-and-control.jpg, id=221, 501.875pt x 351.3
+<images/brushless-dc-motor-structure-and-control.jpg, id=235, 501.875pt x 351.3
 125pt>
 File: images/brushless-dc-motor-structure-and-control.jpg Graphic file (type jp
 g)
 <use images/brushless-dc-motor-structure-and-control.jpg>
 Package pdftex.def Info: images/brushless-dc-motor-structure-and-control.jpg  u
-sed on input line 110.
+sed on input line 111.
 (pdftex.def)             Requested size: 100.37321pt x 70.26125pt.
-<images/stepper-motor-structural-diagram.jpg, id=222, 301.125pt x 298.11375pt>
+<images/stepper-motor-structural-diagram.jpg, id=236, 301.125pt x 298.11375pt>
 File: images/stepper-motor-structural-diagram.jpg Graphic file (type jpg)
 <use images/stepper-motor-structural-diagram.jpg>
 Package pdftex.def Info: images/stepper-motor-structural-diagram.jpg  used on i
-nput line 110.
+nput line 111.
 (pdftex.def)             Requested size: 60.22392pt x 59.62169pt.
  [6
 
@@ -1355,43 +1367,43 @@ r-structural-diagram.jpg>]pdfTeX warning (ext4): destination with the same iden
 tifier (name{sectionI<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.120 	\end{frame}
+l.121 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.120 	\end{frame}
+l.121 	\end{frame}
                   
-<images/brushed_brushless.jpg, id=252, 472.76625pt x 365.11406pt>
+<images/brushed_brushless.jpg, id=268, 472.76625pt x 365.11406pt>
 File: images/brushed_brushless.jpg Graphic file (type jpg)
 <use images/brushed_brushless.jpg>
-Package pdftex.def Info: images/brushed_brushless.jpg  used on input line 120.
+Package pdftex.def Info: images/brushed_brushless.jpg  used on input line 121.
 (pdftex.def)             Requested size: 236.38254pt x 182.55658pt.
  [7
 
  <./images/brushed_brushless.jpg>] [8
 
 ]
-<images/pittman_encoder_01.png, id=315, 820.06375pt x 329.23pt>
+<images/pittman_encoder_01.png, id=332, 820.06375pt x 329.23pt>
 File: images/pittman_encoder_01.png Graphic file (type png)
 <use images/pittman_encoder_01.png>
-Package pdftex.def Info: images/pittman_encoder_01.png  used on input line 151.
+Package pdftex.def Info: images/pittman_encoder_01.png  used on input line 152.
 
 (pdftex.def)             Requested size: 205.01543pt x 82.3073pt.
-<images/pittman_encoder_02.png, id=316, 716.6775pt x 281.05pt>
+<images/pittman_encoder_02.png, id=333, 716.6775pt x 281.05pt>
 File: images/pittman_encoder_02.png Graphic file (type png)
 <use images/pittman_encoder_02.png>
-Package pdftex.def Info: images/pittman_encoder_02.png  used on input line 151.
+Package pdftex.def Info: images/pittman_encoder_02.png  used on input line 152.
 
 (pdftex.def)             Requested size: 179.16893pt x 70.26231pt.
  [9
 
  <./images/pittman_encoder_01.png> <./images/pittman_encoder_02.png>]
-<images/UR3-Joint-Replacement.jpg, id=349, 803.0pt x 396.48125pt>
+<images/UR3-Joint-Replacement.jpg, id=367, 803.0pt x 396.48125pt>
 File: images/UR3-Joint-Replacement.jpg Graphic file (type jpg)
 <use images/UR3-Joint-Replacement.jpg>
 Package pdftex.def Info: images/UR3-Joint-Replacement.jpg  used on input line 1
-63.
+64.
 (pdftex.def)             Requested size: 200.74951pt x 99.12006pt.
  [10
 
@@ -1401,23 +1413,23 @@ Package pdftex.def Info: images/UR3-Joint-Replacement.jpg  used on input line 1
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.200 	\end{frame}
+l.201 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.200 	\end{frame}
+l.201 	\end{frame}
                    [12
 
 ]
-<images/torque_speed_permanent_magnet.png, id=439, 1326.9575pt x 469.755pt>
+<images/torque_speed_permanent_magnet.png, id=460, 1326.9575pt x 469.755pt>
 File: images/torque_speed_permanent_magnet.png Graphic file (type png)
 <use images/torque_speed_permanent_magnet.png>
 Package pdftex.def Info: images/torque_speed_permanent_magnet.png  used on inpu
-t line 213.
+t line 214.
 (pdftex.def)             Requested size: 331.73856pt x 117.43846pt.
 
-Overfull \hbox (24.44868pt too wide) in paragraph at lines 213--213
+Overfull \hbox (24.44868pt too wide) in paragraph at lines 214--214
 [][]  
  []
 
@@ -1428,34 +1440,66 @@ n with the same identifier (name{sectionIII<1>}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.223 		\end{frame}
+l.224 		\end{frame}
                    pdfTeX warning (ext4): destination with the same identifier 
 (name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223 		\end{frame}
+l.224 		\end{frame}
                    
-<images/torque_speed_various.png, id=474, 1227.58624pt x 451.6875pt>
+<images/torque_speed_various.png, id=497, 1227.58624pt x 451.6875pt>
 File: images/torque_speed_various.png Graphic file (type png)
 <use images/torque_speed_various.png>
 Package pdftex.def Info: images/torque_speed_various.png  used on input line 22
-3.
+4.
 (pdftex.def)             Requested size: 306.89581pt x 112.92159pt.
  [14
 
- <./images/torque_speed_various.png>] [15
-
-]pdfTeX warning (ext4): destination with the same identifier (name{sectionIV<1>
-}) has been already used, duplicate ignored
+ <./images/torque_speed_various.png>]pdfTeX warning (ext4): destination with th
+e same identifier (name{sectionIII<1>}) has been already used, duplicate ignore
+d
 <to be read again> 
                    \relax 
-l.255 		\end{frame}
+l.234 		\end{frame}
                    pdfTeX warning (ext4): destination with the same identifier 
-(name{sectionIV}) has been already used, duplicate ignored
+(name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.255 		\end{frame}
-                    [16
+l.234 		\end{frame}
+                   
+<images/torque_speed_pmdc.png, id=529, 704.6325pt x 404.51125pt>
+File: images/torque_speed_pmdc.png Graphic file (type png)
+<use images/torque_speed_pmdc.png>
+Package pdftex.def Info: images/torque_speed_pmdc.png  used on input line 234.
+(pdftex.def)             Requested size: 140.924pt x 80.9008pt.
+<images/torque_speed_bldc.png, id=530, 713.66624pt x 395.4775pt>
+File: images/torque_speed_bldc.png Graphic file (type png)
+<use images/torque_speed_bldc.png>
+Package pdftex.def Info: images/torque_speed_bldc.png  used on input line 234.
+(pdftex.def)             Requested size: 142.73071pt x 79.09409pt.
+<images/torque_speed_ac.png, id=531, 752.8125pt x 404.51125pt>
+File: images/torque_speed_ac.png Graphic file (type png)
+<use images/torque_speed_ac.png>
+Package pdftex.def Info: images/torque_speed_ac.png  used on input line 234.
+(pdftex.def)             Requested size: 150.55983pt x 80.9008pt.
+ [15
+
+ <./images/torque_speed_pmdc.png> <./images/torque_speed_bldc.png> <./images/to
+rque_speed_ac.png>] [16
+
+] [17
+
+]pdfTeX warning (ext4): destination with the same identifier (name{sectionV<1>}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.288 		\end{frame}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{sectionV}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.288 		\end{frame}
+                    [18
 
 ]
 \tf@nav=\write7
@@ -1467,41 +1511,42 @@ l.255 		\end{frame}
 \tf@snm=\write9
 \openout9 = `motor_selection.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 290.
  (./motor_selection.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 290.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 290.
 Package rerunfilecheck Info: File `motor_selection.out' has not changed.
-(rerunfilecheck)             Checksum: 93680CE6F93010E1E2C2C64A6571119C;253.
+(rerunfilecheck)             Checksum: 838DB372B9B628E11D349323CE9095C2;311.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 25894 strings out of 483183
- 513866 string characters out of 5966292
- 986312 words of memory out of 5000000
- 40240 multiletter control sequences out of 15000+600000
+ 25941 strings out of 483183
+ 514892 string characters out of 5966292
+ 987709 words of memory out of 5000000
+ 40277 multiletter control sequences out of 15000+600000
  548991 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  62i,19n,73p,782b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{sectionII} has been referenced but does not exist
 , replaced by a fixed one
 
- </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk
-> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1200.600p
-k> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.600
-pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.60
-0pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1095.6
-00pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.
-600pk> </home/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0600
-.600pk>
-Output written on motor_selection.pdf (16 pages, 2002175 bytes).
+ </home/tntech.edu/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecs
+s1000.600pk> </home/tntech.edu/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecss1200.600pk> </home/tntech.edu/thill/.texlive2019/texmf-var/fonts/p
+k/ljfour/jknappen/ec/ecsx1200.600pk> </home/tntech.edu/thill/.texlive2019/texmf
+-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> </home/tntech.edu/thill/.texli
+ve2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1095.600pk> </home/tntech.edu/
+thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk> </home
+/tntech.edu/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0600.6
+00pk>
+Output written on motor_selection.pdf (18 pages, 2790258 bytes).
 PDF statistics:
- 793 PDF objects out of 1000 (max. 8388607)
- 548 compressed objects within 6 object streams
- 44 named destinations out of 1000 (max. 500000)
- 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 899 PDF objects out of 1000 (max. 8388607)
+ 632 compressed objects within 7 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 184 words of extra memory for PDF output out of 10000 (max. 10000000)
 

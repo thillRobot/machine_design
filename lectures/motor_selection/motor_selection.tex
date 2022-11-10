@@ -9,7 +9,7 @@
 \documentclass[fleqn]{beamer} % for presentation (has nav buttons at bottom)
 
 % custom preamble
-\usepackage{/home/thill/courses/machine_design/machine_design_lecture}
+\usepackage{/home/tntech.edu/thill/courses/machine_design/machine_design_lecture}
 
 \newcommand{\MNUM}{1\hspace{2mm}} % Module number
 \newcommand{\TNUM}{1\hspace{2mm}} % Topic number 
@@ -19,7 +19,8 @@
 \newcommand{\sectiontitleI}{Classification of Electric Motors}
 \newcommand{\sectiontitleII}{Open Loop and Closed Loop Control}
 \newcommand{\sectiontitleIII}{Motor Torque-Speed Curves}
-\newcommand{\sectiontitleIV}{Analysis and Selection}
+\newcommand{\sectiontitleIV}{Motor Driver/Controller}
+\newcommand{\sectiontitleV}{Analysis and Selection}
 
 \author{ME4020 - Applied Machine Design}
 \title{\GD \moduletitle}
@@ -42,7 +43,7 @@
 		\item \hyperlink{sectionII}{\color{black}\sectiontitleII}	\vspace{3mm} % Section II
 		\item \hyperlink{sectionIII}{\color{black}\sectiontitleIII}	\vspace{3mm} %Section III
 		\item \hyperlink{sectionIV}{\color{black}\sectiontitleIV}	\vspace{3mm} %Section IV
-		%\item \hyperlink{sectionV}{\color{black}\sectiontitleV} %Section IV	
+		\item \hyperlink{sectionV}{\color{black}\sectiontitleV} %Section IV	
 	
 	\end{itemize}
 
@@ -221,6 +222,17 @@
 
 	        
 		\end{frame}  
+
+				% Section III - Frame I
+	\begin{frame}[label=sectionIII] \small
+		\frametitle{\sectiontitleIII}
+	 		
+
+		\includegraphics[scale=.2]{images/torque_speed_pmdc.png}
+        \includegraphics[scale=.2]{images/torque_speed_bldc.png}\includegraphics[scale=.2]{images/torque_speed_ac.png} 
+
+		\end{frame}  
+	
 	
 % Section IV	
 \section{\sectiontitleIV}	
@@ -228,6 +240,27 @@
     	% Section IV - Frame I
 	    \begin{frame}[label=sectionIV] \small
 		\frametitle{\sectiontitleIV}    
+  
+	  		A motor driver, aka controller, is required to operate an electric motor.
+
+	  		\begin{itemize}
+	  			\item low-level -> high-level, high-end
+	  			\item open-loop, close-loop
+	  			\item various signal inputs (e.g. analog, PWM, Serial, USB, etc)
+	  			\item dip switches + potenionmeter configured -
+	  			\item computer configuration and user interace
+	  			\item feedback control integration
+	  		\end{itemize}
+
+		\end{frame}
+
+
+% Section V	
+\section{\sectiontitleV}	
+
+    	% Section V - Frame I
+	    \begin{frame}[label=sectionV] \small
+		\frametitle{\sectiontitleV}    
   
 	  		Considerations for Motor Selection:
 	  		\begin{itemize}
@@ -242,9 +275,9 @@
 
 		\end{frame}
 
-	% Section IV - Frame II
-	    \begin{frame}[label=sectionIV] \small
-		\frametitle{\sectiontitleIV}    
+	% Section V - Frame II
+	    \begin{frame}[label=sectionV] \small
+		\frametitle{\sectiontitleV}    
   
   		\href{https://www.haydonkerkpittman.com/products/motors/brushed-dc-motors/dc054b}{Haydon Kerk Pittman Ametek - Brushed DC }
 
