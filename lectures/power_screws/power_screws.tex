@@ -98,10 +98,12 @@
 		\frametitle{\sectiontitleI}	
 		Machining Tool Positioning - 3 Axis Mill
 
-		\begin{multicols}{2}
+		\begin{multicols}{3}
 			\includegraphics[scale=0.15]{images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg}
 
 			\includegraphics[scale=0.1]{images/figure_15_5.png}
+
+			\includegraphics[scale=0.15]{images/Ultimaker_2.png}
 		
 		\end{multicols}
 
@@ -173,6 +175,11 @@
 	\begin{frame}[label=sectionII] \small
 		\frametitle{\sectiontitleII}
 
+		Lubrication is required for smooth operation and to avoid excessive wear.
+
+		Ball Screws are used to reduce friction. This adds mechanical complexity, but can increase machine life.
+
+		\includegraphics[scale=.15]{images/figure_15_9.png}
 
 	\end{frame}
 
@@ -191,18 +198,30 @@
 	\begin{frame}[label=sectionIII] \small
 		\frametitle{\sectiontitleIII}
 	 		
+	 	Consider unwinding a single rotation of a square thread. The nut and power screw can be modeled as a block in contact with an inclined plane as shown in the image.	
+		\includegraphics[scale=.15]{images/figure_15_6.png}
 
-	
+		The {\bf lead angle $\lambda$} can be easily found through trigonometry: \[ tan(\lambda) =\frac{L}{\pi d_p} \]
 	        
 	\end{frame}  
 
 	% Section III - Frame I
 	\begin{frame}[label=sectionIII] \small
 		\frametitle{\sectiontitleIII}
-	 		
-
+		
 		
 
+		\begin{multicols}{2}
+			Write a static force balance for the lifting case.
+
+			\includegraphics[scale=.12]{images/figure_15_6_a.png}
+		\end{multicols}
+
+			\[\Sigma F_x = 0 = F - f cos\lambda -N sin\lambda = F - \mu N cos\lambda - N sin\lambda \]	
+			\[F=N(\mu cos\lambda-sin\lambda)\]	
+
+			\[\Sigma F_y = 0 = N cos\lambda - f sin\lambda - P = N cos\lambda -\mu N sin\lambda - P \]
+			\[N=\frac{P}{cos\lambda - \mu sin\lambda}\]
 	        
 	\end{frame}  
 
@@ -210,8 +229,14 @@
 	\begin{frame}[label=sectionIII] \small
 		\frametitle{\sectiontitleIII}
 	 		
+		Combine the results of the previous equations to get an expression relating the forces on the nut. The relationship is dependent on the friction coeffient and lead angle of the screw. 
 
-	
+		\[F = P \left( \frac{\mu cos\lambda +sin\lambda}{cos\lambda - \mu sin \lambda} \right)\]
+		
+		The screw torque required to lift the load can be found as the force in the x direction F times the half pitch diameter.  	
+
+		\[T_{s_u} = F \frac{d_p}{2} = \frac{Pd_p}{2} \left( \frac{\mu cos\lambda +sin\lambda}{cos\lambda - \mu sin \lambda} \right)\]
+
 
 	\end{frame}  
 	
