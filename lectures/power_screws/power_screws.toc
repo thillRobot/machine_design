@@ -1,5 +1,5 @@
-\beamer@sectionintoc {1}{Overview}{3}{0}{1}
-\beamer@sectionintoc {2}{Threads for Power Transmission}{6}{0}{2}
-\beamer@sectionintoc {3}{Applications}{9}{0}{3}
-\beamer@sectionintoc {4}{Force and Torque Analysis}{12}{0}{4}
-\beamer@sectionintoc {5}{Friction and Efficiency}{13}{0}{5}
+\beamer@sectionintoc {1}{Overview and Applications}{3}{0}{1}
+\beamer@sectionintoc {2}{Threads for Power Transmission}{8}{0}{2}
+\beamer@sectionintoc {3}{Force and Torque Analysis}{11}{0}{3}
+\beamer@sectionintoc {4}{Friction and Efficiency}{14}{0}{4}
+\beamer@sectionintoc {5}{ Design Considerations}{15}{0}{5}

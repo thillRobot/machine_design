@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.1)  17 OCT 2023 00:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.1)  17 OCT 2023 01:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1055,6 +1055,18 @@ LaTeX Warning: Label `sectionI<1>' multiply defined.
 LaTeX Warning: Label `sectionI' multiply defined.
 
 
+LaTeX Warning: Label `sectionI<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionI' multiply defined.
+
+
+LaTeX Warning: Label `sectionI<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionI' multiply defined.
+
+
 LaTeX Warning: Label `sectionII<1>' multiply defined.
 
 
@@ -1303,93 +1315,162 @@ tion with the same identifier (name{sectionI<1>}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.96 	\end{frame}
+l.94 	\end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (n
 ame{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.96 	\end{frame}
-                  [4
+l.94 	\end{frame}
+                 
+<images/figure_15_4.png, id=169, 488.82625pt x 1001.7425pt>
+File: images/figure_15_4.png Graphic file (type png)
+<use images/figure_15_4.png>
+Package pdftex.def Info: images/figure_15_4.png  used on input line 94.
+(pdftex.def)             Requested size: 48.88548pt x 100.18011pt.
+ [4
 
-]pdfTeX warning (ext4): destination with the same identifier (name{sectionI<1>}
-) has been already used, duplicate ignored
+ <./images/figure_15_4.png>]pdfTeX warning (ext4): destination with the same id
+entifier (name{sectionI<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.105 	\end{frame}
+l.110 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.105 	\end{frame}
-                   [5
+l.110 	\end{frame}
+                  
+<images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg, id=203, 648.4225pt x 1084.05
+pt>
+File: images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg Graphic file (type jpg)
+<use images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg>
+Package pdftex.def Info: images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg  used
+ on input line 110.
+(pdftex.def)             Requested size: 97.25917pt x 162.60048pt.
+<images/figure_15_5.png, id=204, 1246.6575pt x 795.97375pt>
+File: images/figure_15_5.png Graphic file (type png)
+<use images/figure_15_5.png>
+Package pdftex.def Info: images/figure_15_5.png  used on input line 110.
+(pdftex.def)             Requested size: 124.67305pt x 79.60204pt.
 
-] [6
+Overfull \vbox (17.83707pt too high) detected at line 110
+ []
 
-]pdfTeX warning (ext4): destination with the same identifier (name{sectionII<1>
+[5
+
+ <./images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg> <./images/figure_15_5.png
+>]pdfTeX warning (ext4): destination with the same identifier (name{sectionI<1>
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.123 	\end{frame}
+l.121 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
-name{sectionII}) has been already used, duplicate ignored
+name{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.123 	\end{frame}
+l.121 	\end{frame}
+                  
+<images/fergelli_optical_feedback_actuator.png, id=238, 687.56876pt x 748.7975p
+t>
+File: images/fergelli_optical_feedback_actuator.png Graphic file (type png)
+<use images/fergelli_optical_feedback_actuator.png>
+Package pdftex.def Info: images/fergelli_optical_feedback_actuator.png  used on
+ input line 121.
+(pdftex.def)             Requested size: 137.5113pt x 149.75684pt.
+ [6
+
+ <./images/fergelli_optical_feedback_actuator.png>]pdfTeX warning (ext4): desti
+nation with the same identifier (name{sectionI<1>}) has been already used, dupl
+icate ignored
+<to be read again> 
+                   \relax 
+l.145 	\end{frame}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{sectionI}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.145 	\end{frame}
                    [7
 
-]pdfTeX warning (ext4): destination with the same identifier (name{sectionII<1>
-}) has been already used, duplicate ignored
+]
+<images/figure_15_2.png, id=303, 1411.2725pt x 748.7975pt>
+File: images/figure_15_2.png Graphic file (type png)
+<use images/figure_15_2.png>
+Package pdftex.def Info: images/figure_15_2.png  used on input line 170.
+(pdftex.def)             Requested size: 141.13551pt x 74.88412pt.
+<images/figure_15_3.png, id=304, 1631.09375pt x 491.8375pt>
+File: images/figure_15_3.png Graphic file (type png)
+<use images/figure_15_3.png>
+Package pdftex.def Info: images/figure_15_3.png  used on input line 170.
+(pdftex.def)             Requested size: 244.6535pt x 73.77243pt.
+ [8
+
+ <./images/figure_15_2.png> <./images/figure_15_3.png>]pdfTeX warning (ext4): d
+estination with the same identifier (name{sectionII<1>}) has been already used,
+ duplicate ignored
 <to be read again> 
                    \relax 
-l.130 	\end{frame}
+l.177 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.130 	\end{frame}
-                   [8
+l.177 	\end{frame}
+                   [9
 
-] [9
-
-]pdfTeX warning (ext4): destination with the same identifier (name{sectionIII<1
->}) has been already used, duplicate ignored
+]pdfTeX warning (ext4): destination with the same identifier (name{sectionII<1>
+}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 	\end{frame}
+l.184 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
-name{sectionIII}) has been already used, duplicate ignored
+name{sectionII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 	\end{frame}
+l.184 	\end{frame}
                    [10
 
+] [11
+
 ]pdfTeX warning (ext4): destination with the same identifier (name{sectionIII<1
 >}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.162 	\end{frame}
+l.207 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.162 	\end{frame}
-                   [11
+l.207 	\end{frame}
+                   [12
 
-] [12
+]pdfTeX warning (ext4): destination with the same identifier (name{sectionIII<1
+>}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.216 	\end{frame}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{sectionIII}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.216 	\end{frame}
+                   [13
 
-] [13
+] [14
+
+] [15
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{sectionV<1>}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.195 	\end{frame}
+l.249 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionV}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.195 	\end{frame}
-                   [14
+l.249 	\end{frame}
+                   [16
 
 ]
 \tf@nav=\write7
@@ -1401,23 +1482,23 @@ l.195 	\end{frame}
 \tf@snm=\write9
 \openout9 = `power_screws.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 197.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 197.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
  (./power_screws.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 197.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 197.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
 Package rerunfilecheck Info: File `power_screws.out' has not changed.
-(rerunfilecheck)             Checksum: 35D9A3141F35DB9B4B6F614788C431B0;273.
+(rerunfilecheck)             Checksum: EB3C284F84B9F239F8772A03C015F4AA;300.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 26136 strings out of 481239
- 519823 string characters out of 5920378
- 994448 words of memory out of 5000000
- 40762 multiletter control sequences out of 15000+600000
+ 26181 strings out of 481239
+ 521054 string characters out of 5920378
+ 994634 words of memory out of 5000000
+ 40796 multiletter control sequences out of 15000+600000
  541709 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,19n,83p,775b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1428,10 +1509,10 @@ m-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb
 onts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfsx0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb>
 </usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb>
-Output written on power_screws.pdf (14 pages, 347058 bytes).
+Output written on power_screws.pdf (16 pages, 1449588 bytes).
 PDF statistics:
- 554 PDF objects out of 1000 (max. 8388607)
- 506 compressed objects within 6 object streams
- 44 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 630 PDF objects out of 1000 (max. 8388607)
+ 569 compressed objects within 6 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
