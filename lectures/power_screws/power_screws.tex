@@ -206,11 +206,9 @@
 	\end{frame}  
 
 	% Section III - Frame I
-	\begin{frame}[label=sectionIII] \small
+	\begin{frame}[label=sectionIII] \footnotesize
 		\frametitle{\sectiontitleIII}
 		
-		
-
 		\begin{multicols}{2}
 			Write a static force balance for the lifting case.
 
@@ -226,7 +224,7 @@
 	\end{frame}  
 
 	% Section III - Frame I
-	\begin{frame}[label=sectionIII] \small
+	\begin{frame}[label=sectionIII] \footnotesize
 		\frametitle{\sectiontitleIII}
 	 		
 		Combine the results of the previous equations to get an expression relating the forces on the nut. The relationship is dependent on the friction coeffient and lead angle of the screw. 
@@ -235,10 +233,60 @@
 		
 		The screw torque required to lift the load can be found as the force in the x direction F times the half pitch diameter.  	
 
-		\[T_{s_u} = F \frac{d_p}{2} = \frac{Pd_p}{2} \left( \frac{\mu cos\lambda +sin\lambda}{cos\lambda - \mu sin \lambda} \right)\]
+		\[T_{s_u} = F \frac{d_p}{2} = \frac{Pd_p}{2} \left( \frac{\mu cos\lambda +sin\lambda}{cos\lambda - \mu sin \lambda} \right) =  \frac{Pd_p}{2}\left(\frac{\mu \pi d_p +L}{\pi d_p -\mu L} \right) \] 
 
+		The torque required to turn the collar must also be modeled with $d_c$ as the mean diameter and $\mu_c$ as the thrust bearing coefficient
+
+		\[T_c=\mu_cP\frac{d_c}{2}\]
 
 	\end{frame}  
+
+	% Section III - Frame I
+	\begin{frame}[label=sectionIII] \footnotesize
+		\frametitle{\sectiontitleIII}
+
+		The total torque required to lift the load with a square thread is given as follows:
+
+		\[T_u = T_{s_u}+T_c = \frac{Pd_p}{2}\left(\frac{\mu \pi d_p +L}{\pi d_p -\mu L}\right) + \mu_c P \frac{d_c}{2} \]
+
+		The torque required to lower the load can be found through a similar analysis.
+
+		\[T_d = T_{s_u}+T_c = \frac{Pd_p}{2}\left(\frac{\mu \pi d_p -L}{\pi d_p +\mu L}\right) + \mu_c P \frac{d_c}{2} \]
+
+	\end{frame}
+
+
+	% Section III - Frame I
+	\begin{frame}[label=sectionIII] \footnotesize
+		\frametitle{\sectiontitleIII}
+
+		The results for a ACME thread are shown below which include the influence of the angle alpha.
+
+		The total torque required to lift the load with a ACME thread is given as follows:
+
+		\[T_u = T_{s_u}+T_c = \frac{Pd_p}{2}\left(\frac{\mu \pi d_p +L cos \alpha }{\pi d_p cos \alpha-\mu L}\right) + \mu_c P \frac{d_c}{2} \]
+
+		The torque required to lower the load can be found through a similar analysis.
+
+		\[T_d = T_{s_u}+T_c = \frac{Pd_p}{2}\left(\frac{\mu \pi d_p -Lcos \alpha}{\pi d_p cos \alpha +\mu L}\right) + \mu_c P \frac{d_c}{2} \]
+
+		If $\alpha=0$ these will reduce to the equations derived for the square thread.
+
+	\end{frame}
+
+
+		% Section III - Frame I
+	\begin{frame}[label=sectionIII] \footnotesize
+		\frametitle{\sectiontitleIII}
+
+		Given the friction coeffients, A force balance can also be used to predict whether the system can be back-driven or not. A power screw which cannot be rotated by any amount of axial load is called {\it self-locking}, which is a useful characteristic in many applications. Power screws that are not self-locking require constant motor input and or a break to hold the system in place. \vspace{5mm}\\
+
+		A screw will {\bf self-lock} if: \[ \mu \geq \frac{L}{\pi d_p}cos\lambda  \hspace{10mm}OR\hspace{10mm}  \mu \geq tan\lambda cos\alpha \]
+
+		for a square thread this becomes: \[\mu \geq \frac{L}{\pi d_p} \hspace{10mm}OR\hspace{10mm} \mu \geq tan\lambda\]
+
+
+	\end{frame}	
 	
 	
 % Section IV	
@@ -248,11 +296,38 @@
     \begin{frame}[label=sectionIV] \small
 		\frametitle{\sectiontitleIV}    
 
-  		
+		The efficiency of the system is defined as the ratio of {\it work out} to {\it work in}. 
+
+		The work done on the power screw is the torque times the angular displacement in radians. For a single rotation this is given as: 
+
+		\[W_{in}=2\pi T\]
+
+		The work delivered through one revolution is the load force time the lead.
+
+		\[W_{out}=PL\]
+
+		The efficiency of the system is:
+
+		\[e=\frac{w_{out}}{W_{in}}=\frac{PL}{2\pi T} = \frac{1-\mu tan\lambda}{1+\mu cot\lambda}\]
+
+	\end{frame}
+
+
+	% Section IV - Frame I
+    \begin{frame}[label=sectionIV] \small
+		\frametitle{\sectiontitleIV}  	
+
+		Efficiency of an ACME-Thread at different lead angles and coefficients of friction.
+
+		\includegraphics[scale=.2]{images/figure_15_8.png}
+
 
 
 	\end{frame}
 
+
+
+		
 
 % Section V	
 \section{\sectiontitleV}	
@@ -267,9 +342,13 @@
 
 	% Section V - Frame II
     \begin{frame}[label=sectionV] \small
-	\frametitle{\sectiontitleV}    
+  
 
-		
+	References: \vspace{10mm} \\
+
+	This lecture was adapted from \underline{Machine Design} by Norton, 6th ed. Section 15.3 \vspace{10mm} \\
+	
+	Images are from the above textbook and wikipedia/wikimedia.
 
 	\end{frame}
 		

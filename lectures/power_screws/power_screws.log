@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.1)  17 OCT 2023 02:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.1)  17 OCT 2023 02:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**power_screws
+**power_screws.tex
 (./power_screws.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
@@ -1084,6 +1084,42 @@ LaTeX Warning: Label `sectionIII<1>' multiply defined.
 
 LaTeX Warning: Label `sectionIII' multiply defined.
 
+
+LaTeX Warning: Label `sectionIII<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionIII' multiply defined.
+
+
+LaTeX Warning: Label `sectionIII<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionIII' multiply defined.
+
+
+LaTeX Warning: Label `sectionIII<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionIII' multiply defined.
+
+
+LaTeX Warning: Label `sectionIII<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionIII' multiply defined.
+
+
+LaTeX Warning: Label `sectionIV<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionIV' multiply defined.
+
+
+LaTeX Warning: Label `sectionV<1>' multiply defined.
+
+
+LaTeX Warning: Label `sectionV' multiply defined.
+
 )
 \openout1 = `power_screws.aux'.
 
@@ -1274,7 +1310,7 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 ] [2
 
 ]
-<images/1024px-Nose_cargo_door_of_Boeing_747-8F.jpg, id=121, 1027.84pt x 770.88
+<images/1024px-Nose_cargo_door_of_Boeing_747-8F.jpg, id=129, 1027.84pt x 770.88
 pt>
 File: images/1024px-Nose_cargo_door_of_Boeing_747-8F.jpg Graphic file (type jpg
 )
@@ -1282,7 +1318,7 @@ File: images/1024px-Nose_cargo_door_of_Boeing_747-8F.jpg Graphic file (type jpg
 Package pdftex.def Info: images/1024px-Nose_cargo_door_of_Boeing_747-8F.jpg  us
 ed on input line 72.
 (pdftex.def)             Requested size: 138.75241pt x 104.0643pt.
-<images/960px-Detail_of_raised_nose_cargo_door_of_Boeing_747-8F.jpeg, id=122, 9
+<images/960px-Detail_of_raised_nose_cargo_door_of_Boeing_747-8F.jpeg, id=130, 9
 63.6pt x 722.7pt>
 File: images/960px-Detail_of_raised_nose_cargo_door_of_Boeing_747-8F.jpeg Graph
 ic file (type jpg)
@@ -1310,7 +1346,7 @@ ame{sectionI}) has been already used, duplicate ignored
                    \relax 
 l.94 	\end{frame}
                  
-<images/figure_15_4.png, id=161, 488.82625pt x 1001.7425pt>
+<images/figure_15_4.png, id=169, 488.82625pt x 1001.7425pt>
 File: images/figure_15_4.png Graphic file (type png)
 <use images/figure_15_4.png>
 Package pdftex.def Info: images/figure_15_4.png  used on input line 94.
@@ -1328,7 +1364,7 @@ name{sectionI}) has been already used, duplicate ignored
                    \relax 
 l.112 	\end{frame}
                   
-<images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg, id=195, 648.4225pt x 1084.05
+<images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg, id=203, 648.4225pt x 1084.05
 pt>
 File: images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg Graphic file (type jpg)
 <use images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg>
@@ -1340,7 +1376,7 @@ Overfull \hbox (1.49588pt too wide) in paragraph at lines 112--112
 [][]  
  []
 
-<images/figure_15_5.png, id=196, 1246.6575pt x 795.97375pt>
+<images/figure_15_5.png, id=204, 1246.6575pt x 795.97375pt>
 File: images/figure_15_5.png Graphic file (type png)
 <use images/figure_15_5.png>
 Package pdftex.def Info: images/figure_15_5.png  used on input line 112.
@@ -1350,7 +1386,7 @@ Overfull \hbox (28.90976pt too wide) in paragraph at lines 112--112
 [][]  
  []
 
-<images/Ultimaker_2.png, id=197, 717.68124pt x 1084.05pt>
+<images/Ultimaker_2.png, id=205, 717.68124pt x 1084.05pt>
 File: images/Ultimaker_2.png Graphic file (type png)
 <use images/Ultimaker_2.png>
 Package pdftex.def Info: images/Ultimaker_2.png  used on input line 112.
@@ -1378,7 +1414,7 @@ name{sectionI}) has been already used, duplicate ignored
                    \relax 
 l.123 	\end{frame}
                   
-<images/fergelli_optical_feedback_actuator.png, id=231, 687.56876pt x 748.7975p
+<images/fergelli_optical_feedback_actuator.png, id=239, 687.56876pt x 748.7975p
 t>
 File: images/fergelli_optical_feedback_actuator.png Graphic file (type png)
 <use images/fergelli_optical_feedback_actuator.png>
@@ -1401,12 +1437,12 @@ l.147 	\end{frame}
                    [7
 
 ]
-<images/figure_15_2.png, id=296, 1411.2725pt x 748.7975pt>
+<images/figure_15_2.png, id=304, 1411.2725pt x 748.7975pt>
 File: images/figure_15_2.png Graphic file (type png)
 <use images/figure_15_2.png>
 Package pdftex.def Info: images/figure_15_2.png  used on input line 172.
 (pdftex.def)             Requested size: 141.13551pt x 74.88412pt.
-<images/figure_15_3.png, id=297, 1631.09375pt x 491.8375pt>
+<images/figure_15_3.png, id=305, 1631.09375pt x 491.8375pt>
 File: images/figure_15_3.png Graphic file (type png)
 <use images/figure_15_3.png>
 Package pdftex.def Info: images/figure_15_3.png  used on input line 172.
@@ -1425,7 +1461,7 @@ name{sectionII}) has been already used, duplicate ignored
                    \relax 
 l.184 	\end{frame}
                   
-<images/figure_15_9.png, id=333, 1236.62pt x 814.04124pt>
+<images/figure_15_9.png, id=341, 1236.62pt x 814.04124pt>
 File: images/figure_15_9.png Graphic file (type png)
 <use images/figure_15_9.png>
 Package pdftex.def Info: images/figure_15_9.png  used on input line 184.
@@ -1445,7 +1481,7 @@ l.191 	\end{frame}
                    [10
 
 ]
-<images/figure_15_6.png, id=396, 1621.05624pt x 709.65125pt>
+<images/figure_15_6.png, id=404, 1621.05624pt x 709.65125pt>
 File: images/figure_15_6.png Graphic file (type png)
 <use images/figure_15_6.png>
 Package pdftex.def Info: images/figure_15_6.png  used on input line 206.
@@ -1484,17 +1520,17 @@ Overfull \vbox (2.05376pt too high) detected at line 206
 entifier (name{sectionIII<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.226 	\end{frame}
+l.224 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.226 	\end{frame}
+l.224 	\end{frame}
                   
-<images/figure_15_6_a.png, id=436, 832.10875pt x 708.6475pt>
+<images/figure_15_6_a.png, id=444, 832.10875pt x 708.6475pt>
 File: images/figure_15_6_a.png Graphic file (type png)
 <use images/figure_15_6_a.png>
-Package pdftex.def Info: images/figure_15_6_a.png  used on input line 226.
+Package pdftex.def Info: images/figure_15_6_a.png  used on input line 224.
 (pdftex.def)             Requested size: 99.84874pt x 85.03403pt.
  [12
 
@@ -1502,29 +1538,92 @@ Package pdftex.def Info: images/figure_15_6_a.png  used on input line 226.
 identifier (name{sectionIII<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.241 	\end{frame}
+l.242 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.241 	\end{frame}
+l.242 	\end{frame}
                    [13
 
-] [14
+]pdfTeX warning (ext4): destination with the same identifier (name{sectionIII<1
+>}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.256 	\end{frame}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{sectionIII}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.256 	\end{frame}
+                   [14
 
-] [15
+]pdfTeX warning (ext4): destination with the same identifier (name{sectionIII<1
+>}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.275 	\end{frame}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{sectionIII}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.275 	\end{frame}
+                   [15
+
+]pdfTeX warning (ext4): destination with the same identifier (name{sectionIII<1
+>}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.289 	\end{frame}
+                  	pdfTeX warning (ext4): destination with the same identifier 
+(name{sectionIII}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.289 	\end{frame}
+                  	 [16
+
+] [17
+
+]pdfTeX warning (ext4): destination with the same identifier (name{sectionIV<1>
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.326 	\end{frame}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{sectionIV}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.326 	\end{frame}
+                  
+<images/figure_15_8.png, id=644, 1540.75626pt x 849.1725pt>
+File: images/figure_15_8.png Graphic file (type png)
+<use images/figure_15_8.png>
+Package pdftex.def Info: images/figure_15_8.png  used on input line 326.
+(pdftex.def)             Requested size: 308.1458pt x 169.83148pt.
+
+Overfull \hbox (0.85593pt too wide) in paragraph at lines 326--326
+[][]  
+ []
+
+
+Overfull \vbox (5.1241pt too high) detected at line 326
+ []
+
+[18
+
+ <./images/figure_15_8.png>] [19
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{sectionV<1>}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.274 	\end{frame}
+l.353 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionV}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.274 	\end{frame}
-                   [16
+l.353 	\end{frame}
+                   [20
 
 ]
 \tf@nav=\write7
@@ -1536,50 +1635,50 @@ l.274 	\end{frame}
 \tf@snm=\write9
 \openout9 = `power_screws.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 355.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 355.
  (./power_screws.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 355.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 355.
+Package rerunfilecheck Info: File `power_screws.out' has not changed.
+(rerunfilecheck)             Checksum: EB3C284F84B9F239F8772A03C015F4AA;300.
 
-
-Package rerunfilecheck Warning: File `power_screws.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `power_screws.out':
-(rerunfilecheck)             Before: 0B53DB8F5AA3AE9F93233C3931F7C638;185
-(rerunfilecheck)             After:  EB3C284F84B9F239F8772A03C015F4AA;300.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 26300 strings out of 481239
- 523791 string characters out of 5920378
- 994530 words of memory out of 5000000
- 40884 multiletter control sequences out of 15000+600000
- 548468 words of font info for 58 fonts, out of 8000000 for 9000
+ 26357 strings out of 481239
+ 524467 string characters out of 5920378
+ 995774 words of memory out of 5000000
+ 40919 multiletter control sequences out of 15000+600000
+ 555986 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,19n,83p,775b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,19n,83p,779b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss060
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0600.pfb></usr/share/tex
-mf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/publi
-c/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.
-pfb>
-Output written on power_screws.pdf (16 pages, 2867756 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sfsi0900.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfsx0600.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfsx0900.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb>
+Output written on power_screws.pdf (20 pages, 3476829 bytes).
 PDF statistics:
- 659 PDF objects out of 1000 (max. 8388607)
- 584 compressed objects within 6 object streams
- 48 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 828 PDF objects out of 1000 (max. 8388607)
+ 737 compressed objects within 8 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
