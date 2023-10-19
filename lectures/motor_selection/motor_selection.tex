@@ -9,14 +9,15 @@
 \documentclass[fleqn]{beamer} % for presentation (has nav buttons at bottom)
 
 % custom preamble
-\usepackage{/home/tntech.edu/thill/courses/machine_design/machine_design_lecture}
+%\usepackage{/home/tntech.edu/thill/courses/machine_design/machine_design_lecture}
+\usepackage{/home/thill/courses/machine_design/machine_design_lecture}
 
 \newcommand{\MNUM}{1\hspace{2mm}} % Module number
 \newcommand{\TNUM}{1\hspace{2mm}} % Topic number 
 \newcommand{\moduletitle}{Power Screws and Bolted Connections} 
 \newcommand{\lecturetitle}{Motor Selection} 
 
-\newcommand{\sectiontitleI}{Classification of Electric Motors}
+\newcommand{\sectiontitleI}{Overview and Classification}
 \newcommand{\sectiontitleII}{Open Loop and Closed Loop Control}
 \newcommand{\sectiontitleIII}{Motor Torque-Speed Curves}
 \newcommand{\sectiontitleIV}{Motor Driver/Controller}
@@ -58,14 +59,12 @@
 
 		\begin{frame}[label=sectionI] \small
 			\frametitle{\sectiontitleI}	
-	
-			\begin{multicols}{2}
-				\includegraphics[scale=0.25]{images/Jedlik_motor.jpeg}	
-				\href{https://en.wikipedia.org/wiki/Electric_motor}{Jedlik's Electromagnetic Self-Rotor}
 
-				\includegraphics[scale=0.15]{images/MIT-mini-cheetah-01_0.jpg}
-				\href{https://news.mit.edu/2019/mit-mini-cheetah-first-four-legged-robot-to-backflip-0304}{MIT Mini Cheetah}
-			\end{multicols}
+			\includegraphics[scale=0.25]{images/motor_timeline.png}
+
+			\href{https://en.wikipedia.org/wiki/Electric_motor}{Jedlik's Electromagnetic Self-Rotor}
+
+			\href{https://news.mit.edu/2019/mit-mini-cheetah-first-four-legged-robot-to-backflip-0304}{MIT Mini Cheetah}
 
 		\end{frame}
 
@@ -85,9 +84,9 @@
 	\begin{frame}[label=sectionI] \small
 		\frametitle{\sectiontitleI}	
 		
-		Common Electric Motor Types
+		Common Electric Motor Types \vspace{2mm}\\
 
-		\begin{tabular}{|c|c|c|c|} 
+		\begin{tabular}{|c|c|c|c|} \hline
 			--- Type --- & --- Example --- & --- Application --- \\ \hline  
 			& \includegraphics[scale=.05]{images/Ac-elektromotor-robuster-asynchronmotor.jpeg} & \\ \hline                  % AC Motor
 			& \includegraphics[scale=.29]{images/brushed_dcmotor.jpg} & \\ \hline                  % Brushed DC Motor 
@@ -100,9 +99,9 @@
 	\begin{frame}[label=sectionI] \small
 		\frametitle{\sectiontitleI}	
 		
-		Common Electric Motor Types
+		Common Electric Motor Types (cont.) \vspace{2mm}\\
 
-		\begin{tabular}{|c|c|c|c|} 
+		\begin{tabular}{|c|c|c|c|} \hline
 			--- Type --- & --- Example --- & --- Applications --- \\ \hline  
 			& \includegraphics[scale=.2]{images/brushless-dc-motor-structure-and-control.jpg} & \\ \hline                % Brushless DC Motor
 			& \includegraphics[scale=.2]{images/stepper-motor-structural-diagram.jpg} & \\ \hline                    % Stepper Motor  

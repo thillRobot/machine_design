@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="310.27295mm"
-   height="132.14381mm"
-   viewBox="0 0 310.27294 132.14381"
+   width="467.41455mm"
+   height="176.30252mm"
+   viewBox="0 0 467.41455 176.30251"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (1:1.2.1+202210291244+9c6d41e410)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    sodipodi:docname="classes_of_motors.svg"
    inkscape:export-filename="classes_of_motors.png"
    inkscape:export-xdpi="96"
@@ -27,17 +27,23 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.2938725"
-     inkscape:cx="495.02559"
-     inkscape:cy="258.91268"
+     inkscape:zoom="0.64693625"
+     inkscape:cx="755.09758"
+     inkscape:cy="118.24967"
      inkscape:window-width="2560"
      inkscape:window-height="1403"
-     inkscape:window-x="0"
+     inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <rect
+       x="261.61621"
+       y="-107.52834"
+       width="151.38927"
+       height="165.76402"
+       id="rect1" />
     <rect
        x="435.90076"
        y="-64.921387"
@@ -89,8 +95,8 @@
     <rect
        x="79.992424"
        y="79.992424"
-       width="212.76663"
-       height="123.03837"
+       width="127.88369"
+       height="79.962669"
        id="rect322-3-3-5" />
     <rect
        x="79.992424"
@@ -101,20 +107,20 @@
     <rect
        x="79.992424"
        y="79.992424"
-       width="212.76663"
-       height="123.03837"
+       width="126.76747"
+       height="84.338371"
        id="rect322-3-3-5-1-3" />
     <rect
        x="79.992424"
        y="79.992424"
-       width="212.76663"
-       height="123.03837"
+       width="95.337868"
+       height="58.263344"
        id="rect322-3-3-5-2" />
     <rect
        x="79.992424"
        y="79.992424"
-       width="212.76663"
-       height="123.03837"
+       width="101.28697"
+       height="70.022125"
        id="rect322-3-3-5-1-3-5" />
     <rect
        x="79.992424"
@@ -122,30 +128,105 @@
        width="163.03474"
        height="74.39949"
        id="rect322-3-3-3" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="235.84456"
+       height="82.896393"
+       id="rect322-36" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="241.46506"
+       height="100.46078"
+       id="rect322-31" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="128.0657"
+       height="42.559883"
+       id="rect322-31-5" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="116.1288"
+       height="46.579613"
+       id="rect322-31-5-0" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="135.31779"
+       height="41.711704"
+       id="rect322-3-3-3-1" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="116.35693"
+       height="31.990376"
+       id="rect322-3-3-3-6" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="182.82124"
+       height="37.977638"
+       id="rect322-3-3-3-6-5" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="213.31314"
+       height="61.829895"
+       id="rect322-8-3" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="213.31314"
+       height="61.829895"
+       id="rect322-8-3-8" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="213.31314"
+       height="61.829895"
+       id="rect322-8-3-2" />
+    <rect
+       x="79.992424"
+       y="79.992424"
+       width="213.31314"
+       height="61.829895"
+       id="rect322-8-3-2-6" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(100.52761,-15.657365)">
+     transform="translate(165.12351,26.411887)">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
        id="rect111"
        width="58.314713"
        height="24.523901"
        x="16.559458"
        y="15.832426"
        ry="8.3255272" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.99278"
+       id="rect111-9"
+       width="465.42178"
+       height="174.30974"
+       x="-164.12712"
+       y="-25.415497"
+       ry="0"
+       rx="0" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,6.7269356,2.2404102)"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0276474,4.9042528)"
        id="text320"
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="103.58597"
-         id="tspan883"><tspan
+         id="tspan8"><tspan
            style="fill:#000000"
-           id="tspan881">DC Motors</tspan></tspan></text>
+           id="tspan7">DC Motors</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583"
        id="rect111-3"
@@ -161,33 +242,100 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-7);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="103.58597"
-         id="tspan887"><tspan
+         id="tspan10"><tspan
            style="fill:#000000"
-           id="tspan885">Brushless 
-</tspan></tspan><tspan
+           id="tspan9">Brushless &#10;</tspan></tspan><tspan
          x="79.992188"
          y="136.91934"
-         id="tspan891"><tspan
+         id="tspan12"><tspan
            style="fill:#000000"
-           id="tspan889">DC Motors</tspan></tspan></text>
+           id="tspan11">DC Motors</tspan></tspan></text>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       style="fill:none;stroke:#000000;stroke-width:0.252372"
        id="rect111-5"
-       width="58.314713"
-       height="24.523901"
-       x="151.29834"
-       y="15.789657"
-       ry="8.3255272" />
+       width="59.097065"
+       height="22.017147"
+       x="196.5602"
+       y="18.52503"
+       ry="7.4745188" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,141.46582,2.1976399)"
+       transform="matrix(0.26458333,0,0,0.26458333,187.5037,4.9391194)"
        id="text320-4"
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-8);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="103.58597"
-         id="tspan895"><tspan
+         id="tspan14"><tspan
            style="fill:#000000"
-           id="tspan893">AC Motors</tspan></tspan></text>
+           id="tspan13">AC Motors</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.205317"
+       id="rect111-5-0"
+       width="56.259968"
+       height="15.307134"
+       x="163.85181"
+       y="56.758316"
+       ry="5.1965613" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,151.93479,39.089239)"
+       id="text320-4-7"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-8-3);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan16"><tspan
+           style="fill:#000000"
+           id="tspan15">Induction</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.205317"
+       id="rect111-5-0-0"
+       width="56.259968"
+       height="15.307134"
+       x="147.43518"
+       y="92.92617"
+       ry="5.1965613" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,132.28419,75.257089)"
+       id="text320-4-7-6"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-8-3-2);display:inline;fill:#000000;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan17">Single Phase</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.205317"
+       id="rect111-5-0-0-6"
+       width="56.259968"
+       height="15.307134"
+       x="213.46362"
+       y="93.473892"
+       ry="5.1965613" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,202.83371,75.782042)"
+       id="text320-4-7-6-4"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-8-3-2-6);display:inline;fill:#000000;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan18">Polyphase</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.205317"
+       id="rect111-5-0-8"
+       width="56.259968"
+       height="15.307134"
+       x="239.27098"
+       y="56.408024"
+       ry="5.1965613" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,225.76646,38.738944)"
+       id="text320-4-7-4"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-8-3-8);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan20"><tspan
+           style="fill:#000000"
+           id="tspan19">Synchronous</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -208,23 +356,108 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="103.58597"
-         id="tspan899"><tspan
+         id="tspan22"><tspan
            style="fill:#000000"
-           id="tspan897">Brushed 
-</tspan></tspan><tspan
+           id="tspan21">Brushed &#10;</tspan></tspan><tspan
          x="79.992188"
          y="136.91934"
-         id="tspan903"><tspan
+         id="tspan24"><tspan
            style="fill:#000000"
-           id="tspan901">DC Motors</tspan></tspan></text>
+           id="tspan23">DC Motors</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.312208"
+       id="rect111-51-7-4"
+       width="69.837654"
+       height="28.513029"
+       x="10.878658"
+       y="48.873264"
+       ry="9.679781" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583"
-       id="rect111-51-7-4"
+       id="rect111-51-7-4-7"
        width="58.314713"
        height="24.523901"
-       x="15.771742"
-       y="51.493214"
+       x="15.891092"
+       y="17.074856"
        ry="8.3255272" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-135.54562,35.113633)"
+       id="text320-94"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-31);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan26"><tspan
+           style="fill:#000000"
+           id="tspan25">Stepper&#10;</tspan></tspan><tspan
+         x="79.992188"
+         y="136.91934"
+         id="tspan28"><tspan
+           style="fill:#000000"
+           id="tspan27">Motors</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect111-51-7-4-7-4"
+       width="58.314713"
+       height="24.523901"
+       x="-129.86208"
+       y="51.474075"
+       ry="8.3255272" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-168.1845,70.842284)"
+       id="text320-94-0"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-31-5);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan30"><tspan
+           style="fill:#000000"
+           id="tspan29">Uni-Polar&#10;</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.21135"
+       id="rect111-51-7-4-7-4-1"
+       width="53.073109"
+       height="17.193901"
+       x="-156.75955"
+       y="87.176117"
+       ry="5.8370924" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-101.59725,71.661241)"
+       id="text320-94-0-6"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-31-5-0);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan32"><tspan
+           style="fill:#000000"
+           id="tspan31">Bi-Polar&#10;</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.192702"
+       id="rect111-51-7-4-7-4-1-6"
+       width="43.204868"
+       height="17.558434"
+       x="-88.242271"
+       y="87.985741"
+       ry="5.9608464" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,102.08174,-38.759582)"
+       id="text320-1"
+       style="font-size:32px;white-space:pre;shape-inside:url(#rect322-36);display:inline;fill:#000000;stroke:#000000"><tspan
+         x="79.992188"
+         y="108.30469"
+         id="tspan33">Electric&#10;</tspan><tspan
+         x="79.992188"
+         y="148.30469"
+         id="tspan34">Motors</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.289383"
+       id="rect111-51-7-4-7-9"
+       width="63.780674"
+       height="26.822578"
+       x="106.41722"
+       y="-22.020512"
+       ry="9.1058969" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,5.0716417,33.852513)"
@@ -232,108 +465,185 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3-3-3);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="103.58597"
-         id="tspan907"><tspan
+         id="tspan36"><tspan
            style="fill:#000000"
-           id="tspan905">Permanent
-</tspan></tspan><tspan
+           id="tspan35">Permanent&#10;</tspan></tspan><tspan
          x="79.992188"
          y="136.91934"
-         id="tspan911"><tspan
+         id="tspan38"><tspan
            style="fill:#000000"
-           id="tspan909">Magnent</tspan></tspan></text>
+           id="tspan37">Magnent</tspan></tspan></text>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.375525"
-       id="rect111-51-7-9"
-       width="58.492966"
-       height="19.785887"
-       x="-29.054066"
-       y="126.05109"
-       ry="9.386858" />
+       style="fill:none;stroke:#000000;stroke-width:0.18411"
+       id="rect111-51-7-4-56"
+       width="39.812565"
+       height="17.393166"
+       x="85.389526"
+       y="45.471142"
+       ry="5.9047403" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-39.809635,108.35492)"
+       transform="matrix(0.26458333,0,0,0.26458333,73.848597,29.384562)"
+       id="text320-3-0-3-9"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3-3-3-6);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan40"><tspan
+           style="fill:#000000"
+           id="tspan39">Shunt&#10;</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.18411"
+       id="rect111-51-7-4-56-2"
+       width="49.587471"
+       height="17.354246"
+       x="98.791931"
+       y="64.959068"
+       ry="5.9047403"
+       rx="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,83.842405,48.491159)"
+       id="text320-3-0-3-9-5"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3-3-3-6-5);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan42"><tspan
+           style="fill:#000000"
+           id="tspan41">Compound&#10;</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.206788"
+       id="rect111-51-7-4-5"
+       width="43.364117"
+       height="20.144903"
+       x="-36.918823"
+       y="53.406666"
+       ry="6.8389177" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-48.492301,38.804493)"
+       id="text320-3-0-3-5"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect322-3-3-3-1);display:inline;fill:none;stroke:#000000"><tspan
+         x="79.992188"
+         y="103.58597"
+         id="tspan44"><tspan
+           style="fill:#000000"
+           id="tspan43">Series&#10;</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.392226"
+       id="rect111-51-7-9"
+       width="50.06012"
+       height="25.221008"
+       x="-3.1060057"
+       y="119.38927"
+       ry="11.965399" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-13.869913,101.68475)"
        id="text320-3-0-2"
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="97.6875"
-         id="tspan915"><tspan
+         id="tspan46"><tspan
            style="fill:#000000"
-           id="tspan913">Permanent
-</tspan></tspan><tspan
+           id="tspan45">Permanent&#10;</tspan></tspan><tspan
          x="79.992188"
          y="122.6875"
-         id="tspan919"><tspan
+         id="tspan48"><tspan
            style="fill:#000000"
-           id="tspan917">Magnent Stator</tspan></tspan></text>
+           id="tspan47">Magnent &#10;</tspan></tspan><tspan
+         x="79.992188"
+         y="147.6875"
+         id="tspan50"><tspan
+           style="fill:#000000"
+           id="tspan49">Stator</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-30.30182,13.459725)"
        id="text862"
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect864);display:inline;fill:#000000;stroke:#000000" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.375525"
+       style="fill:none;stroke:#000000;stroke-width:0.385037"
        id="rect111-51-7-9-9-4"
-       width="58.492966"
-       height="19.785887"
-       x="-100.33984"
-       y="125.76189"
-       ry="9.386858" />
+       width="48.143009"
+       height="25.272785"
+       x="-58.766144"
+       y="119.23883"
+       ry="11.989963" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-111.6015,107.27046)"
+       transform="matrix(0.26458333,0,0,0.26458333,-70.03256,100.74266)"
        id="text320-3-0-2-2-4"
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-1-3);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="97.6875"
-         id="tspan923"><tspan
+         id="tspan52"><tspan
            style="fill:#000000"
-           id="tspan921">Permanent
-</tspan></tspan><tspan
+           id="tspan51">Permanent&#10;</tspan></tspan><tspan
          x="79.992188"
          y="122.6875"
-         id="tspan927"><tspan
+         id="tspan54"><tspan
            style="fill:#000000"
-           id="tspan925">Magnent Rotor</tspan></tspan></text>
+           id="tspan53">Magnent &#10;</tspan></tspan><tspan
+         x="79.992188"
+         y="147.6875"
+         id="tspan56"><tspan
+           style="fill:#000000"
+           id="tspan55">Rotor</tspan></tspan></text>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.375525"
+       style="fill:none;stroke:#000000;stroke-width:0.30199"
        id="rect111-51-7-9-7"
-       width="58.492966"
-       height="19.785887"
-       x="113.6948"
-       y="127.82754"
-       ry="9.386858" />
+       width="37.687641"
+       height="19.859423"
+       x="103.47633"
+       y="121.10007"
+       ry="9.4217443" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,102.53027,113.70992)"
+       transform="matrix(0.26458333,0,0,0.26458333,91.831473,104.66496)"
        id="text320-3-0-2-0"
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-2);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="97.6875"
-         id="tspan931"><tspan
+         id="tspan58"><tspan
            style="fill:#000000"
-           id="tspan929">External Rotor</tspan></tspan></text>
+           id="tspan57">External &#10;</tspan></tspan><tspan
+         x="79.992188"
+         y="122.6875"
+         id="tspan60"><tspan
+           style="fill:#000000"
+           id="tspan59">Rotor</tspan></tspan></text>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.375525"
+       style="fill:none;stroke:#000000;stroke-width:0.309731"
        id="rect111-51-7-9-9-4-7"
-       width="58.492966"
-       height="19.785887"
-       x="42.409027"
-       y="127.53834"
-       ry="9.386858" />
+       width="39.660046"
+       height="19.851681"
+       x="54.91058"
+       y="121.28262"
+       ry="9.4180717" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,30.840637,113.13668)"
+       transform="matrix(0.26458333,0,0,0.26458333,43.999713,104.41602)"
        id="text320-3-0-2-2-4-5"
        style="font-size:20px;white-space:pre;shape-inside:url(#rect322-3-3-5-1-3-5);display:inline;fill:none;stroke:#000000"><tspan
          x="79.992188"
          y="97.6875"
-         id="tspan935"><tspan
+         id="tspan62"><tspan
            style="fill:#000000"
-           id="tspan933">Internal Rotor</tspan></tspan></text>
+           id="tspan61">Internal &#10;</tspan></tspan><tspan
+         x="79.992188"
+         y="122.6875"
+         id="tspan64"><tspan
+           style="fill:#000000"
+           id="tspan63">Rotor</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-30.30182,13.459725)"
        id="text1216"
        style="font-size:20px;white-space:pre;shape-inside:url(#rect1218);display:inline;fill:#000000;stroke:#000000" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-100.52761,15.657365)"
+       id="text1"
+       style="font-size:26.6667px;line-height:1.25;font-family:'AR PL SungtiL GB';-inkscape-font-specification:'AR PL SungtiL GB';white-space:pre;shape-inside:url(#rect1);display:inline;fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:0.944882" />
   </g>
 </svg>
