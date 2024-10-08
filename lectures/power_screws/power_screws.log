@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.20)  7 OCT 2024 21:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.20)  7 OCT 2024 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1650,7 +1650,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  26357 strings out of 481239
  524467 string characters out of 5920377
- 995773 words of memory out of 5000000
+ 995734 words of memory out of 5000000
  40919 multiletter control sequences out of 15000+600000
  555986 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1675,7 +1675,7 @@ m-super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb
 onts/type1/public/cm-super/sfsx0900.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb>
 </usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb>
-Output written on power_screws.pdf (20 pages, 3477252 bytes).
+Output written on power_screws.pdf (20 pages, 3477034 bytes).
 PDF statistics:
  828 PDF objects out of 1000 (max. 8388607)
  737 compressed objects within 8 object streams
