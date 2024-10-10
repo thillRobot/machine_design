@@ -3,7 +3,7 @@
 
 % Tennessee Technological University
 % ME4020 - Fall 2022
-% Tristan Hill - November 09, 2022
+% Tristan Hill - November 09, 2022 - October 09, 2024
 % Electric Motor Selection 
 
 \documentclass[fleqn]{beamer} % for presentation (has nav buttons at bottom)
@@ -127,13 +127,20 @@
 	\begin{frame} \small
 		\frametitle{\sectiontitleII}
 
-		Open Loop vs Closed Loop Control
+		Open Loop Control
 		\begin{itemize}
-			\item Open Loop Control
+			\item aka feed-forward controller
+			\item sensorless operation
+
+		\end{itemize}
+
+		Closed Loop Control
+		\begin{itemize}
+			\item aka feedback control
 			\item Bang-Bang Control
-			\item Armature Control
-			\item Position Control
-			\item Velocity Control
+			\item Current, Velocity, Position Control
+			\item Preferred Strategy: PID\\
+			(alternatives: Model Predictive, Fuzzy Logic)
 		\end{itemize}
 
 	\end{frame}
@@ -158,14 +165,17 @@
 
 		Modern Case Study: Universal Robotics - Cobot Arm Joint
 
-		\includegraphics[scale=.25]{images/UR3-Joint-Replacement.jpg}
-	
+		\includegraphics[scale=.2]{images/UR3-Joint-Replacement.jpg}
+		\includegraphics[scale=1.0]{images/4096px-UR16e_robot_arm.png}
+
+		\tiny{ \hspace{70mm} image: \href{https://upload.wikimedia.org/wikipedia/commons/1/16/UR16e_robot_arm.png}{wikimedia commons}}
 	\end{frame}
 
-		% Section I - Frame III
+	% Section I - Frame III
 	\begin{frame} \small
 		\frametitle{\sectiontitleII}
 
+		\textbf{Open-Loop Control}\vspace{2mm}\\
 		Applications:
 		\begin{itemize}
 			\item  
@@ -190,8 +200,34 @@
 
 	\end{frame}
 
-	
+	% Section I - Frame IV
+	\begin{frame} \small
+		\frametitle{\sectiontitleII}
 
+		\textbf{Closed-Loop Control}\vspace{2mm}\\
+		Applications:
+		\begin{itemize}
+			\item  
+			\item
+			\item
+        \end{itemize}
+
+        \begin{multicols}{2}
+		\underline{Pros}
+		\begin{itemize}
+		\item
+		\item
+		\item
+		\end{itemize}
+		\underline{Cons}
+		\begin{itemize}
+		\item 
+		\item
+		\item
+		\end{itemize}
+		\end{multicols}
+
+	\end{frame}
 
 	% Section II - Frame I
 	\begin{frame}[label=sectionI] \small
