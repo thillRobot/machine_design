@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.20)  9 OCT 2024 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.20)  10 OCT 2024 07:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1462,7 +1462,7 @@ l.236 	\end{frame}
                    [13
 
 ]
-<images/torque_speed_permanent_magnet.png, id=499, 1326.9575pt x 469.755pt>
+<images/torque_speed_permanent_magnet.png, id=498, 1326.9575pt x 469.755pt>
 File: images/torque_speed_permanent_magnet.png Graphic file (type png)
 <use images/torque_speed_permanent_magnet.png>
 Package pdftex.def Info: images/torque_speed_permanent_magnet.png  used on inpu
@@ -1487,7 +1487,7 @@ l.259 		\end{frame}
                    \relax 
 l.259 		\end{frame}
                    
-<images/torque_speed_various.png, id=532, 1227.58624pt x 451.6875pt>
+<images/torque_speed_various.png, id=533, 1227.58624pt x 451.6875pt>
 File: images/torque_speed_various.png Graphic file (type png)
 <use images/torque_speed_various.png>
 Package pdftex.def Info: images/torque_speed_various.png  used on input line 25
@@ -1500,27 +1500,27 @@ e same identifier (name{sectionIII<1>}) has been already used, duplicate ignore
 d
 <to be read again> 
                    \relax 
-l.269 		\end{frame}
+l.271 		\end{frame}
                    pdfTeX warning (ext4): destination with the same identifier 
 (name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.269 		\end{frame}
+l.271 		\end{frame}
                    
-<images/torque_speed_pmdc.png, id=566, 704.6325pt x 404.51125pt>
+<images/torque_speed_pmdc.png, id=565, 704.6325pt x 404.51125pt>
 File: images/torque_speed_pmdc.png Graphic file (type png)
 <use images/torque_speed_pmdc.png>
-Package pdftex.def Info: images/torque_speed_pmdc.png  used on input line 269.
+Package pdftex.def Info: images/torque_speed_pmdc.png  used on input line 271.
 (pdftex.def)             Requested size: 140.924pt x 80.9008pt.
-<images/torque_speed_bldc.png, id=567, 713.66624pt x 395.4775pt>
+<images/torque_speed_bldc.png, id=566, 713.66624pt x 395.4775pt>
 File: images/torque_speed_bldc.png Graphic file (type png)
 <use images/torque_speed_bldc.png>
-Package pdftex.def Info: images/torque_speed_bldc.png  used on input line 269.
+Package pdftex.def Info: images/torque_speed_bldc.png  used on input line 271.
 (pdftex.def)             Requested size: 142.73071pt x 79.09409pt.
-<images/torque_speed_ac.png, id=568, 752.8125pt x 404.51125pt>
+<images/torque_speed_ac.png, id=567, 752.8125pt x 404.51125pt>
 File: images/torque_speed_ac.png Graphic file (type png)
 <use images/torque_speed_ac.png>
-Package pdftex.def Info: images/torque_speed_ac.png  used on input line 269.
+Package pdftex.def Info: images/torque_speed_ac.png  used on input line 271.
 (pdftex.def)             Requested size: 150.55983pt x 80.9008pt.
  [16
 
@@ -1533,12 +1533,12 @@ rque_speed_ac.png>] [17
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.323 		\end{frame}
+l.325 		\end{frame}
                    pdfTeX warning (ext4): destination with the same identifier 
 (name{sectionV}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.323 		\end{frame}
+l.325 		\end{frame}
                     [19
 
 ]
@@ -1551,11 +1551,11 @@ l.323 		\end{frame}
 \tf@snm=\write9
 \openout9 = `motor_selection.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 327.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 327.
  (./motor_selection.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 327.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 327.
 Package rerunfilecheck Info: File `motor_selection.out' has not changed.
 (rerunfilecheck)             Checksum: FEECB994A57DF90BCAF4C3B6DDEEADE6;305.
 
@@ -1564,18 +1564,15 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 26320 strings out of 481239
- 524377 string characters out of 5920377
- 995754 words of memory out of 5000000
- 40894 multiletter control sequences out of 15000+600000
+ 26317 strings out of 481239
+ 524349 string characters out of 5920377
+ 995718 words of memory out of 5000000
+ 40892 multiletter control sequences out of 15000+600000
  548468 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,19n,83p,782b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{sectionII} has been referenced but does not exist
 , replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation20} has been referenced but does not exis
-t, replaced by a fixed one
 
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fo
 nts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-
@@ -1585,10 +1582,10 @@ ts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-s
 uper/sfsx0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></
 usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/font
 s/type1/public/cm-super/sfsx1440.pfb>
-Output written on motor_selection.pdf (19 pages, 20968187 bytes).
+Output written on motor_selection.pdf (19 pages, 20968295 bytes).
 PDF statistics:
  744 PDF objects out of 1000 (max. 8388607)
  665 compressed objects within 7 object streams
- 54 named destinations out of 1000 (max. 500000)
+ 53 named destinations out of 1000 (max. 500000)
  184 words of extra memory for PDF output out of 10000 (max. 10000000)
 
