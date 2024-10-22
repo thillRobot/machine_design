@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.20)  7 OCT 2024 21:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.15)  22 OCT 2024 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -489,12 +489,6 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
-Package: sansmathaccent 2020/01/31
-
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
@@ -661,7 +655,7 @@ Package: amsthm 2017/10/31 v2.20.4
 \beamer@dimb=\dimen277
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
-(/home/thill/courses/machine_design/machine_design_lecture.sty
+(../machine_design_lecture.sty
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
@@ -1039,7 +1033,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 104.
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\color' on input line 31.
+(hyperref)                removing `\color' on input line 30.
 
 (./power_screws.aux
 
@@ -1123,22 +1117,22 @@ LaTeX Warning: Label `sectionV' multiply defined.
 )
 \openout1 = `power_screws.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1198,7 +1192,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box139
-Package hyperref Info: Link coloring ON on input line 31.
+Package hyperref Info: Link coloring ON on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1211,71 +1205,56 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count367
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
 (./power_screws.out) (./power_screws.out)
 \@outlinefile=\write6
 \openout6 = `power_screws.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 31.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 31.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 30.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 31.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 31.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 30.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 31.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 31.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 31.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 30.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 31.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 31.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 31.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 30.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 31.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 31.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 31.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 30.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 31.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 31.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 31.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 31.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 31.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 31.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 31.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 31.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 31.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 31.
-LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 31
-.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 31
-.
-LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 31.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 31
-.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 31.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1316,7 +1295,7 @@ File: images/1024px-Nose_cargo_door_of_Boeing_747-8F.jpg Graphic file (type jpg
 )
 <use images/1024px-Nose_cargo_door_of_Boeing_747-8F.jpg>
 Package pdftex.def Info: images/1024px-Nose_cargo_door_of_Boeing_747-8F.jpg  us
-ed on input line 72.
+ed on input line 71.
 (pdftex.def)             Requested size: 138.75241pt x 104.0643pt.
 <images/960px-Detail_of_raised_nose_cargo_door_of_Boeing_747-8F.jpeg, id=130, 9
 63.6pt x 722.7pt>
@@ -1324,10 +1303,10 @@ File: images/960px-Detail_of_raised_nose_cargo_door_of_Boeing_747-8F.jpeg Graph
 ic file (type jpg)
 <use images/960px-Detail_of_raised_nose_cargo_door_of_Boeing_747-8F.jpeg>
 Package pdftex.def Info: images/960px-Detail_of_raised_nose_cargo_door_of_Boein
-g_747-8F.jpeg  used on input line 72.
+g_747-8F.jpeg  used on input line 71.
 (pdftex.def)             Requested size: 168.63252pt x 126.47438pt.
 
-Overfull \hbox (19.9876pt too wide) in paragraph at lines 72--72
+Overfull \hbox (19.9876pt too wide) in paragraph at lines 71--71
 [][] 
  []
 
@@ -1339,17 +1318,17 @@ tion with the same identifier (name{sectionI<1>}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.94 	\end{frame}
+l.93 	\end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (n
 ame{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.94 	\end{frame}
+l.93 	\end{frame}
                  
 <images/figure_15_4.png, id=169, 488.82625pt x 1001.7425pt>
 File: images/figure_15_4.png Graphic file (type png)
 <use images/figure_15_4.png>
-Package pdftex.def Info: images/figure_15_4.png  used on input line 94.
+Package pdftex.def Info: images/figure_15_4.png  used on input line 93.
 (pdftex.def)             Requested size: 48.88548pt x 100.18011pt.
  [4
 
@@ -1357,47 +1336,47 @@ Package pdftex.def Info: images/figure_15_4.png  used on input line 94.
 entifier (name{sectionI<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.112 	\end{frame}
+l.111 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.112 	\end{frame}
+l.111 	\end{frame}
                   
 <images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg, id=203, 648.4225pt x 1084.05
 pt>
 File: images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg Graphic file (type jpg)
 <use images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg>
 Package pdftex.def Info: images/Sharp_3_Axis_Vertical_Mill_Full_View.jpeg  used
- on input line 112.
+ on input line 111.
 (pdftex.def)             Requested size: 97.25917pt x 162.60048pt.
 
-Overfull \hbox (1.49588pt too wide) in paragraph at lines 112--112
+Overfull \hbox (1.49588pt too wide) in paragraph at lines 111--111
 [][]  
  []
 
 <images/figure_15_5.png, id=204, 1246.6575pt x 795.97375pt>
 File: images/figure_15_5.png Graphic file (type png)
 <use images/figure_15_5.png>
-Package pdftex.def Info: images/figure_15_5.png  used on input line 112.
+Package pdftex.def Info: images/figure_15_5.png  used on input line 111.
 (pdftex.def)             Requested size: 124.67305pt x 79.60204pt.
 
-Overfull \hbox (28.90976pt too wide) in paragraph at lines 112--112
+Overfull \hbox (28.90976pt too wide) in paragraph at lines 111--111
 [][]  
  []
 
 <images/Ultimaker_2.png, id=205, 717.68124pt x 1084.05pt>
 File: images/Ultimaker_2.png Graphic file (type png)
 <use images/Ultimaker_2.png>
-Package pdftex.def Info: images/Ultimaker_2.png  used on input line 112.
+Package pdftex.def Info: images/Ultimaker_2.png  used on input line 111.
 (pdftex.def)             Requested size: 107.64754pt x 162.60048pt.
 
-Overfull \hbox (11.88425pt too wide) in paragraph at lines 112--112
+Overfull \hbox (11.88425pt too wide) in paragraph at lines 111--111
 [][]  
  []
 
 
-Overfull \vbox (17.83707pt too high) detected at line 112
+Overfull \vbox (17.83707pt too high) detected at line 111
  []
 
 [5
@@ -1407,19 +1386,19 @@ Overfull \vbox (17.83707pt too high) detected at line 112
 dentifier (name{sectionI<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.123 	\end{frame}
+l.122 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.123 	\end{frame}
+l.122 	\end{frame}
                   
 <images/fergelli_optical_feedback_actuator.png, id=239, 687.56876pt x 748.7975p
 t>
 File: images/fergelli_optical_feedback_actuator.png Graphic file (type png)
 <use images/fergelli_optical_feedback_actuator.png>
 Package pdftex.def Info: images/fergelli_optical_feedback_actuator.png  used on
- input line 123.
+ input line 122.
 (pdftex.def)             Requested size: 137.5113pt x 149.75684pt.
  [6
 
@@ -1428,24 +1407,24 @@ nation with the same identifier (name{sectionI<1>}) has been already used, dupl
 icate ignored
 <to be read again> 
                    \relax 
-l.147 	\end{frame}
+l.146 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionI}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.147 	\end{frame}
+l.146 	\end{frame}
                    [7
 
 ]
 <images/figure_15_2.png, id=304, 1411.2725pt x 748.7975pt>
 File: images/figure_15_2.png Graphic file (type png)
 <use images/figure_15_2.png>
-Package pdftex.def Info: images/figure_15_2.png  used on input line 172.
+Package pdftex.def Info: images/figure_15_2.png  used on input line 171.
 (pdftex.def)             Requested size: 141.13551pt x 74.88412pt.
 <images/figure_15_3.png, id=305, 1631.09375pt x 491.8375pt>
 File: images/figure_15_3.png Graphic file (type png)
 <use images/figure_15_3.png>
-Package pdftex.def Info: images/figure_15_3.png  used on input line 172.
+Package pdftex.def Info: images/figure_15_3.png  used on input line 171.
 (pdftex.def)             Requested size: 244.6535pt x 73.77243pt.
  [8
 
@@ -1454,17 +1433,17 @@ estination with the same identifier (name{sectionII<1>}) has been already used,
  duplicate ignored
 <to be read again> 
                    \relax 
-l.184 	\end{frame}
+l.183 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.184 	\end{frame}
+l.183 	\end{frame}
                   
 <images/figure_15_9.png, id=341, 1236.62pt x 814.04124pt>
 File: images/figure_15_9.png Graphic file (type png)
 <use images/figure_15_9.png>
-Package pdftex.def Info: images/figure_15_9.png  used on input line 184.
+Package pdftex.def Info: images/figure_15_9.png  used on input line 183.
 (pdftex.def)             Requested size: 185.485pt x 122.1009pt.
  [9
 
@@ -1472,46 +1451,39 @@ Package pdftex.def Info: images/figure_15_9.png  used on input line 184.
 entifier (name{sectionII<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.191 	\end{frame}
+l.190 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.191 	\end{frame}
+l.190 	\end{frame}
                    [10
 
 ]
 <images/figure_15_6.png, id=404, 1621.05624pt x 709.65125pt>
 File: images/figure_15_6.png Graphic file (type png)
 <use images/figure_15_6.png>
-Package pdftex.def Info: images/figure_15_6.png  used on input line 207.
+Package pdftex.def Info: images/figure_15_6.png  used on input line 206.
 (pdftex.def)             Requested size: 243.14795pt x 106.44308pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 207
+LaTeX Font Info:    Trying to load font information for U+msa on input line 206
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 207
+LaTeX Font Info:    Trying to load font information for U+msb on input line 206
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+wasy on input line 20
-7.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 207.
-
-(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
-Overfull \vbox (2.05376pt too high) detected at line 207
+Overfull \vbox (2.05174pt too high) detected at line 206
  []
 
 [11
@@ -1520,17 +1492,17 @@ Overfull \vbox (2.05376pt too high) detected at line 207
 entifier (name{sectionIII<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.225 	\end{frame}
+l.224 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.225 	\end{frame}
+l.224 	\end{frame}
                   
 <images/figure_15_6_a.png, id=445, 832.10875pt x 708.6475pt>
 File: images/figure_15_6_a.png Graphic file (type png)
 <use images/figure_15_6_a.png>
-Package pdftex.def Info: images/figure_15_6_a.png  used on input line 225.
+Package pdftex.def Info: images/figure_15_6_a.png  used on input line 224.
 (pdftex.def)             Requested size: 99.84874pt x 85.03403pt.
  [12
 
@@ -1538,48 +1510,48 @@ Package pdftex.def Info: images/figure_15_6_a.png  used on input line 225.
 identifier (name{sectionIII<1>}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.243 	\end{frame}
+l.242 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.243 	\end{frame}
+l.242 	\end{frame}
                    [13
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{sectionIII<1
 >}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.257 	\end{frame}
+l.256 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.257 	\end{frame}
+l.256 	\end{frame}
                    [14
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{sectionIII<1
 >}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.276 	\end{frame}
+l.275 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.276 	\end{frame}
+l.275 	\end{frame}
                    [15
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{sectionIII<1
 >}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.290 	\end{frame}
+l.289 	\end{frame}
                   	pdfTeX warning (ext4): destination with the same identifier 
 (name{sectionIII}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.290 	\end{frame}
+l.289 	\end{frame}
                   	 [16
 
 ] [17
@@ -1588,25 +1560,25 @@ l.290 	\end{frame}
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.327 	\end{frame}
+l.326 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionIV}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.327 	\end{frame}
+l.326 	\end{frame}
                   
 <images/figure_15_8.png, id=644, 1540.75626pt x 849.1725pt>
 File: images/figure_15_8.png Graphic file (type png)
 <use images/figure_15_8.png>
-Package pdftex.def Info: images/figure_15_8.png  used on input line 327.
+Package pdftex.def Info: images/figure_15_8.png  used on input line 326.
 (pdftex.def)             Requested size: 308.1458pt x 169.83148pt.
 
-Overfull \hbox (0.85593pt too wide) in paragraph at lines 327--327
+Overfull \hbox (0.85593pt too wide) in paragraph at lines 326--326
 [][]  
  []
 
 
-Overfull \vbox (5.1241pt too high) detected at line 327
+Overfull \vbox (5.1241pt too high) detected at line 326
  []
 
 [18
@@ -1617,12 +1589,12 @@ Overfull \vbox (5.1241pt too high) detected at line 327
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.354 	\end{frame}
+l.353 	\end{frame}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{sectionV}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.354 	\end{frame}
+l.353 	\end{frame}
                    [20
 
 ]
@@ -1635,11 +1607,11 @@ l.354 	\end{frame}
 \tf@snm=\write9
 \openout9 = `power_screws.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 356.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 356.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 355.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 355.
  (./power_screws.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 356.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 356.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 355.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 355.
 Package rerunfilecheck Info: File `power_screws.out' has not changed.
 (rerunfilecheck)             Checksum: EB3C284F84B9F239F8772A03C015F4AA;300.
 
@@ -1648,37 +1620,42 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 26357 strings out of 481239
- 524467 string characters out of 5920377
- 995734 words of memory out of 5000000
- 40919 multiletter control sequences out of 15000+600000
- 555986 words of font info for 78 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 67i,19n,83p,779b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.p
-fb></usr/share/texmf/fonts/type1/public/cm-super/sfsi0900.pfb></usr/share/texmf
-/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/
-cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pf
-b></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/
-fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfsx0600.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfsx0900.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb>
-Output written on power_screws.pdf (20 pages, 3477034 bytes).
+ 25984 strings out of 483183
+ 514725 string characters out of 5966292
+ 987651 words of memory out of 5000000
+ 40305 multiletter control sequences out of 15000+600000
+ 556483 words of font info for 76 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 62i,19n,73p,779b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/tntech.edu/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+csx0900.600pk> </home/tntech.edu/thill/.texlive2019/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecsi0500.600pk> </home/tntech.edu/thill/.texlive2019/texmf-var/fonts
+/pk/ljfour/jknappen/ec/ecsi0600.600pk> </home/tntech.edu/thill/.texlive2019/tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecsi0900.600pk> </home/tntech.edu/thill/.tex
+live2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0900.600pk> </home/tntech.ed
+u/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi0700.600pk> </ho
+me/tntech.edu/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1000
+.600pk> </home/tntech.edu/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen
+/ec/ecsx1000.600pk> </home/tntech.edu/thill/.texlive2019/texmf-var/fonts/pk/ljf
+our/jknappen/ec/ecss0600.600pk> </home/tntech.edu/thill/.texlive2019/texmf-var/
+fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </home/tntech.edu/thill/.texlive201
+9/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1200.600pk> </home/tntech.edu/thill
+/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.600pk> </home/tnte
+ch.edu/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk>
+ </home/tntech.edu/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecs
+s1095.600pk> </home/tntech.edu/thill/.texlive2019/texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecss1440.600pk> </home/tntech.edu/thill/.texlive2019/texmf-var/fonts/p
+k/ljfour/jknappen/ec/ecsx0600.600pk></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on power_screws.pdf (20 pages, 3377889 bytes).
 PDF statistics:
- 828 PDF objects out of 1000 (max. 8388607)
- 737 compressed objects within 8 object streams
+ 1160 PDF objects out of 1200 (max. 8388607)
+ 752 compressed objects within 8 object streams
  56 named destinations out of 1000 (max. 500000)
  169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
